@@ -1,1 +1,0 @@
-# Supermarket-Management-System
