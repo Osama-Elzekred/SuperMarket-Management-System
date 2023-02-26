@@ -1,0 +1,11 @@
+E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sales\bin\Debug\Point Of Sales.exe.config
+E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sales\bin\Debug\Point Of Sales.exe
+E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sales\bin\Debug\Point Of Sales.pdb
+E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.csproj.AssemblyReference.cache
+E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.csproj.SuggestedBindingRedirects.cache
+E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.Form1.resources
+E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.Properties.Resources.resources
+E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.csproj.GenerateResource.cache
+E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.csproj.CoreCompileInputs.cache
+E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.exe
+E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.pdb
