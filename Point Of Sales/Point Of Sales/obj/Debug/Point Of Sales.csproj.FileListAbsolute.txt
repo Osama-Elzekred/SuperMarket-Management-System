@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sales\bin\Debug\Point Of Sales.exe.config
 E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sales\bin\Debug\Point Of Sales.exe
 E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sales\bin\Debug\Point Of Sales.pdb
@@ -9,3 +10,16 @@ E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sa
 E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.csproj.CoreCompileInputs.cache
 E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.exe
 E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.pdb
+=======
+F:\Supermarket\Point Of Sales\Point Of Sales\bin\Debug\Point Of Sales.exe.config
+F:\Supermarket\Point Of Sales\Point Of Sales\bin\Debug\Point Of Sales.exe
+F:\Supermarket\Point Of Sales\Point Of Sales\bin\Debug\Point Of Sales.pdb
+F:\Supermarket\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.csproj.AssemblyReference.cache
+F:\Supermarket\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.csproj.SuggestedBindingRedirects.cache
+F:\Supermarket\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.Form1.resources
+F:\Supermarket\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.Properties.Resources.resources
+F:\Supermarket\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.csproj.GenerateResource.cache
+F:\Supermarket\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.csproj.CoreCompileInputs.cache
+F:\Supermarket\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.exe
+F:\Supermarket\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.pdb
+>>>>>>> 0efb86e3607a49a011d5b302ac58719f8b18b96e
