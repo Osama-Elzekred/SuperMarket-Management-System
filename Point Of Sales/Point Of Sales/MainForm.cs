@@ -5,6 +5,8 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Threading;
+using System.Globalization;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -135,6 +137,49 @@ namespace Point_Of_Sales
         private void btnLogout_Click(object sender, EventArgs e)
         {
             hideSubmenu();
+        }
+
+        private void panelMain_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void lang_combBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            //if (lang_combBox.SelectedIndex==0)
+            //{
+            //    Thread.CurrentThread.CurrentCulture = new System.Globalization.CultureInfo("ar");
+            //    this.Controls.Clear();
+            //    InitializeComponent();
+
+            //}
+            //else
+            //{
+            //    Thread.CurrentThread.CurrentCulture = new System.Globalization.CultureInfo("en");
+            //    this.Controls.Clear();
+            //    InitializeComponent();
+            //    this.RightToLeft = RightToLeft.No;
+            //    this.RightToLeftLayout = false;
+            //}
+            switch (lang_combBox.SelectedIndex)
+            {      // change the lang to Arabic
+                case 0:
+                    Thread.CurrentThread.CurrentUICulture = new CultureInfo("ar");
+                    this.Controls.Clear();
+                    InitializeComponent();
+                    break;
+
+                // change the lang to English
+                case 1:
+                default:
+                    Thread.CurrentThread.CurrentUICulture = new CultureInfo("en");
+                    this.Controls.Clear();
+                    InitializeComponent();
+                    this.RightToLeft = RightToLeft.No;
+                    this.RightToLeftLayout = false;
+                    break;
+            }
+
         }
     }
 }

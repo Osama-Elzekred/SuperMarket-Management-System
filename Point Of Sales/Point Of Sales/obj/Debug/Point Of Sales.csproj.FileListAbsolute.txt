@@ -9,3 +9,6 @@ E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sa
 E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.csproj.CoreCompileInputs.cache
 E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.exe
 E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.pdb
+E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sales\bin\Debug\ar\Point Of Sales.resources.dll
+E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.MainForm.ar.resources
+E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\ar\Point Of Sales.resources.dll
