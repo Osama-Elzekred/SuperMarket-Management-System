@@ -9,3 +9,37 @@ E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sa
 E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.csproj.CoreCompileInputs.cache
 E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.exe
 E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.pdb
+E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sales\bin\Debug\ar\Point Of Sales.resources.dll
+E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.MainForm.ar.resources
+E:\Collage\3\2\projects\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\ar\Point Of Sales.resources.dll
+C:\Users\TURBO\Downloads\SuperMarket-Management-System-arabizeMainForm-oz\SuperMarket-Management-System-arabizeMainForm-oz\Point Of Sales\Point Of Sales\bin\Debug\Point Of Sales.exe.config
+C:\Users\TURBO\Downloads\SuperMarket-Management-System-arabizeMainForm-oz\SuperMarket-Management-System-arabizeMainForm-oz\Point Of Sales\Point Of Sales\bin\Debug\Point Of Sales.exe
+C:\Users\TURBO\Downloads\SuperMarket-Management-System-arabizeMainForm-oz\SuperMarket-Management-System-arabizeMainForm-oz\Point Of Sales\Point Of Sales\bin\Debug\Point Of Sales.pdb
+C:\Users\TURBO\Downloads\SuperMarket-Management-System-arabizeMainForm-oz\SuperMarket-Management-System-arabizeMainForm-oz\Point Of Sales\Point Of Sales\bin\Debug\ar\Point Of Sales.resources.dll
+C:\Users\TURBO\Downloads\SuperMarket-Management-System-arabizeMainForm-oz\SuperMarket-Management-System-arabizeMainForm-oz\Point Of Sales\Point Of Sales\bin\Debug\en\Point Of Sales.resources.dll
+C:\Users\TURBO\Downloads\SuperMarket-Management-System-arabizeMainForm-oz\SuperMarket-Management-System-arabizeMainForm-oz\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.csproj.AssemblyReference.cache
+C:\Users\TURBO\Downloads\SuperMarket-Management-System-arabizeMainForm-oz\SuperMarket-Management-System-arabizeMainForm-oz\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.csproj.SuggestedBindingRedirects.cache
+C:\Users\TURBO\Downloads\SuperMarket-Management-System-arabizeMainForm-oz\SuperMarket-Management-System-arabizeMainForm-oz\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.MainForm.resources
+C:\Users\TURBO\Downloads\SuperMarket-Management-System-arabizeMainForm-oz\SuperMarket-Management-System-arabizeMainForm-oz\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.Properties.Resources.resources
+C:\Users\TURBO\Downloads\SuperMarket-Management-System-arabizeMainForm-oz\SuperMarket-Management-System-arabizeMainForm-oz\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.MainForm.ar.resources
+C:\Users\TURBO\Downloads\SuperMarket-Management-System-arabizeMainForm-oz\SuperMarket-Management-System-arabizeMainForm-oz\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.MainForm.en.resources
+C:\Users\TURBO\Downloads\SuperMarket-Management-System-arabizeMainForm-oz\SuperMarket-Management-System-arabizeMainForm-oz\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.csproj.GenerateResource.cache
+C:\Users\TURBO\Downloads\SuperMarket-Management-System-arabizeMainForm-oz\SuperMarket-Management-System-arabizeMainForm-oz\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.csproj.CoreCompileInputs.cache
+C:\Users\TURBO\Downloads\SuperMarket-Management-System-arabizeMainForm-oz\SuperMarket-Management-System-arabizeMainForm-oz\Point Of Sales\Point Of Sales\obj\Debug\ar\Point Of Sales.resources.dll
+C:\Users\TURBO\Downloads\SuperMarket-Management-System-arabizeMainForm-oz\SuperMarket-Management-System-arabizeMainForm-oz\Point Of Sales\Point Of Sales\obj\Debug\en\Point Of Sales.resources.dll
+C:\Users\TURBO\Downloads\SuperMarket-Management-System-arabizeMainForm-oz\SuperMarket-Management-System-arabizeMainForm-oz\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.exe
+C:\Users\TURBO\Downloads\SuperMarket-Management-System-arabizeMainForm-oz\SuperMarket-Management-System-arabizeMainForm-oz\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.pdb
+E:\barmga\projects\c#_java\SuperMarket-Management-System\Point Of Sales\Point Of Sales\bin\Debug\Point Of Sales.exe.config
+E:\barmga\projects\c#_java\SuperMarket-Management-System\Point Of Sales\Point Of Sales\bin\Debug\Point Of Sales.exe
+E:\barmga\projects\c#_java\SuperMarket-Management-System\Point Of Sales\Point Of Sales\bin\Debug\Point Of Sales.pdb
+E:\barmga\projects\c#_java\SuperMarket-Management-System\Point Of Sales\Point Of Sales\bin\Debug\ar\Point Of Sales.resources.dll
+E:\barmga\projects\c#_java\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.csproj.AssemblyReference.cache
+E:\barmga\projects\c#_java\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.csproj.SuggestedBindingRedirects.cache
+E:\barmga\projects\c#_java\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.MainForm.resources
+E:\barmga\projects\c#_java\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.Properties.Resources.resources
+E:\barmga\projects\c#_java\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.MainForm.ar.resources
+E:\barmga\projects\c#_java\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.csproj.GenerateResource.cache
+E:\barmga\projects\c#_java\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.csproj.CoreCompileInputs.cache
+E:\barmga\projects\c#_java\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\ar\Point Of Sales.resources.dll
+E:\barmga\projects\c#_java\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.exe
+E:\barmga\projects\c#_java\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.pdb

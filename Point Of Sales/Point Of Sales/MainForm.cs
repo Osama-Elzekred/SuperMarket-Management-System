@@ -5,6 +5,8 @@ using System.Data;
 using System.Drawing;
 using System.Linq;
 using System.Text;
+using System.Threading;
+using System.Globalization;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -135,6 +137,44 @@ namespace Point_Of_Sales
         private void btnLogout_Click(object sender, EventArgs e)
         {
             hideSubmenu();
+        }
+
+        private void panelMain_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+       
+
+        private void lblName_Click(object sender, EventArgs e)
+        {
+            String lang = lblName.Text;
+            if (lang == "ENG")
+            {
+                Thread.CurrentThread.CurrentUICulture = new CultureInfo("en");
+                this.Controls.Clear();
+                InitializeComponent();
+                lblName.Text = "العربية";
+                this.RightToLeft = RightToLeft.No;
+                this.RightToLeftLayout = false;
+                hideSubmenu();
+            }
+            else 
+            {
+                Thread.CurrentThread.CurrentUICulture = new CultureInfo("ar");
+                this.Controls.Clear();
+                InitializeComponent();
+                lblName.Text = "ENG";
+                hideSubmenu();
+
+            }
+
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
