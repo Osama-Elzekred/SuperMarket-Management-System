@@ -43,3 +43,17 @@ E:\barmga\projects\c#_java\SuperMarket-Management-System\Point Of Sales\Point Of
 E:\barmga\projects\c#_java\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\ar\Point Of Sales.resources.dll
 E:\barmga\projects\c#_java\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.exe
 E:\barmga\projects\c#_java\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.pdb
+E:\New folder\Supermarket\Point Of Sales\Point Of Sales\bin\Debug\Point Of Sales.exe.config
+E:\New folder\Supermarket\Point Of Sales\Point Of Sales\bin\Debug\Point Of Sales.exe
+E:\New folder\Supermarket\Point Of Sales\Point Of Sales\bin\Debug\Point Of Sales.pdb
+E:\New folder\Supermarket\Point Of Sales\Point Of Sales\bin\Debug\ar\Point Of Sales.resources.dll
+E:\New folder\Supermarket\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.csproj.AssemblyReference.cache
+E:\New folder\Supermarket\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.csproj.SuggestedBindingRedirects.cache
+E:\New folder\Supermarket\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.MainForm.resources
+E:\New folder\Supermarket\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.Properties.Resources.resources
+E:\New folder\Supermarket\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.MainForm.ar.resources
+E:\New folder\Supermarket\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.csproj.GenerateResource.cache
+E:\New folder\Supermarket\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.csproj.CoreCompileInputs.cache
+E:\New folder\Supermarket\Point Of Sales\Point Of Sales\obj\Debug\ar\Point Of Sales.resources.dll
+E:\New folder\Supermarket\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.exe
+E:\New folder\Supermarket\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.pdb
