@@ -124,32 +124,11 @@
   <data name="btnLogout.Text" xml:space="preserve">
     <value>تسجيل الخروج</value>
   </data>
-  <data name="btnStore.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
-  </data>
-  <data name="btnStore.Text" xml:space="preserve">
-    <value>المتجر</value>
-  </data>
-  <data name="btnUser.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
-  </data>
-  <data name="btnUser.Text" xml:space="preserve">
-    <value>المستخدم</value>
-  </data>
   <data name="btnSetting.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
   </data>
   <data name="btnSetting.Text" xml:space="preserve">
     <value>الأعدادات</value>
-  </data>
-  <data name="btnPOSRecord.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
-  </data>
-  <data name="btnSaleHistory.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
-  </data>
-  <data name="btnSaleHistory.Text" xml:space="preserve">
-    <value>المبيعات</value>
   </data>
   <data name="btnRecord.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
@@ -163,6 +142,45 @@
   <data name="btnSupplier.Text" xml:space="preserve">
     <value>المورد</value>
   </data>
+  <data name="btnInStock.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
+  </data>
+  <data name="btnInStock.Text" xml:space="preserve">
+    <value>في المخزن</value>
+  </data>
+  <data name="btnProduct.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
+  </data>
+  <data name="btnProduct.Text" xml:space="preserve">
+    <value>المنتجات</value>
+  </data>
+  <data name="btnDashboard.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
+  </data>
+  <data name="btnDashboard.Text" xml:space="preserve">
+    <value>لوحة التحكم</value>
+  </data>
+  <data name="btnStore.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
+  </data>
+  <data name="btnStore.Text" xml:space="preserve">
+    <value>المتجر</value>
+  </data>
+  <data name="btnUser.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
+  </data>
+  <data name="btnUser.Text" xml:space="preserve">
+    <value>المستخدم</value>
+  </data>
+  <data name="btnPOSRecord.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
+  </data>
+  <data name="btnSaleHistory.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
+  </data>
+  <data name="btnSaleHistory.Text" xml:space="preserve">
+    <value>المبيعات</value>
+  </data>
   <data name="btnStockAdministrator.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
   </data>
@@ -174,12 +192,6 @@
   </data>
   <data name="btnStockEntry.Text" xml:space="preserve">
     <value> بيانات المخزن</value>
-  </data>
-  <data name="btnInStock.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
-  </data>
-  <data name="btnInStock.Text" xml:space="preserve">
-    <value>في المخزن</value>
   </data>
   <data name="btnBrand.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
@@ -198,18 +210,6 @@
   </data>
   <data name="btnProductList.Text" xml:space="preserve">
     <value>قائمة المنتجات</value>
-  </data>
-  <data name="btnProduct.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
-  </data>
-  <data name="btnProduct.Text" xml:space="preserve">
-    <value>المنتجات</value>
-  </data>
-  <data name="btnDashboard.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
-  </data>
-  <data name="btnDashboard.Text" xml:space="preserve">
-    <value>لوحة التحكم</value>
   </data>
   <data name="lblUsername.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
@@ -268,22 +268,22 @@
         0qVLly5damfYsP8BjD71KAfn9x8AAAAASUVORK5CYII=
 </value>
   </data>
-  <data name="panelSlide.Size" type="System.Drawing.Size, System.Drawing">
-    <value>200, 747</value>
-  </data>
-  <data name="lang_combBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>12, 4</value>
-  </data>
-  <data name="lang_combBox.Text" xml:space="preserve">
-    <value>اللغة</value>
-  </data>
-  <data name="panelTitle.Size" type="System.Drawing.Size, System.Drawing">
-    <value>1133, 40</value>
-  </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>1333, 747</value>
-  </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="lblName.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="lblName.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 6pt</value>
+  </data>
+  <data name="lblName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 24</value>
+  </data>
+  <data name="lblName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>28, 15</value>
+  </data>
+  <data name="lblName.Text" xml:space="preserve">
+    <value>ENG</value>
+  </data>
   <data name="$this.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
     <value>Yes</value>
   </data>

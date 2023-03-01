@@ -51,14 +51,14 @@
             this.btnProduct = new System.Windows.Forms.Button();
             this.btnDashboard = new System.Windows.Forms.Button();
             this.panelLogo = new System.Windows.Forms.Panel();
-            this.lblName = new System.Windows.Forms.Label();
             this.lblUsername = new System.Windows.Forms.Label();
             this.lblRole = new System.Windows.Forms.Label();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.lblName = new System.Windows.Forms.Label();
             this.panelTitle = new System.Windows.Forms.Panel();
-            this.lang_combBox = new System.Windows.Forms.ComboBox();
             this.lblTitle = new System.Windows.Forms.Label();
             this.panelMain = new System.Windows.Forms.Panel();
+            this.panelLanguage = new System.Windows.Forms.Panel();
             this.panelSlide.SuspendLayout();
             this.panelSubSetting.SuspendLayout();
             this.panelSubRecord.SuspendLayout();
@@ -67,6 +67,7 @@
             this.panelLogo.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panelTitle.SuspendLayout();
+            this.panelLanguage.SuspendLayout();
             this.SuspendLayout();
             // 
             // panelSlide
@@ -97,15 +98,15 @@
             // 
             // panelSubSetting
             // 
-            resources.ApplyResources(this.panelSubSetting, "panelSubSetting");
             this.panelSubSetting.Controls.Add(this.btnStore);
             this.panelSubSetting.Controls.Add(this.btnUser);
+            resources.ApplyResources(this.panelSubSetting, "panelSubSetting");
             this.panelSubSetting.Name = "panelSubSetting";
             // 
             // btnStore
             // 
-            resources.ApplyResources(this.btnStore, "btnStore");
             this.btnStore.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(200)))));
+            resources.ApplyResources(this.btnStore, "btnStore");
             this.btnStore.FlatAppearance.BorderSize = 0;
             this.btnStore.ForeColor = System.Drawing.Color.White;
             this.btnStore.Name = "btnStore";
@@ -114,8 +115,8 @@
             // 
             // btnUser
             // 
-            resources.ApplyResources(this.btnUser, "btnUser");
             this.btnUser.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(200)))));
+            resources.ApplyResources(this.btnUser, "btnUser");
             this.btnUser.FlatAppearance.BorderSize = 0;
             this.btnUser.ForeColor = System.Drawing.Color.White;
             this.btnUser.Name = "btnUser";
@@ -133,15 +134,15 @@
             // 
             // panelSubRecord
             // 
-            resources.ApplyResources(this.panelSubRecord, "panelSubRecord");
             this.panelSubRecord.Controls.Add(this.btnPOSRecord);
             this.panelSubRecord.Controls.Add(this.btnSaleHistory);
+            resources.ApplyResources(this.panelSubRecord, "panelSubRecord");
             this.panelSubRecord.Name = "panelSubRecord";
             // 
             // btnPOSRecord
             // 
-            resources.ApplyResources(this.btnPOSRecord, "btnPOSRecord");
             this.btnPOSRecord.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(200)))));
+            resources.ApplyResources(this.btnPOSRecord, "btnPOSRecord");
             this.btnPOSRecord.FlatAppearance.BorderSize = 0;
             this.btnPOSRecord.ForeColor = System.Drawing.Color.White;
             this.btnPOSRecord.Name = "btnPOSRecord";
@@ -150,8 +151,8 @@
             // 
             // btnSaleHistory
             // 
-            resources.ApplyResources(this.btnSaleHistory, "btnSaleHistory");
             this.btnSaleHistory.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(200)))));
+            resources.ApplyResources(this.btnSaleHistory, "btnSaleHistory");
             this.btnSaleHistory.FlatAppearance.BorderSize = 0;
             this.btnSaleHistory.ForeColor = System.Drawing.Color.White;
             this.btnSaleHistory.Name = "btnSaleHistory";
@@ -178,15 +179,15 @@
             // 
             // panelSubStock
             // 
-            resources.ApplyResources(this.panelSubStock, "panelSubStock");
             this.panelSubStock.Controls.Add(this.btnStockAdministrator);
             this.panelSubStock.Controls.Add(this.btnStockEntry);
+            resources.ApplyResources(this.panelSubStock, "panelSubStock");
             this.panelSubStock.Name = "panelSubStock";
             // 
             // btnStockAdministrator
             // 
-            resources.ApplyResources(this.btnStockAdministrator, "btnStockAdministrator");
             this.btnStockAdministrator.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(200)))));
+            resources.ApplyResources(this.btnStockAdministrator, "btnStockAdministrator");
             this.btnStockAdministrator.FlatAppearance.BorderSize = 0;
             this.btnStockAdministrator.ForeColor = System.Drawing.Color.White;
             this.btnStockAdministrator.Name = "btnStockAdministrator";
@@ -195,8 +196,8 @@
             // 
             // btnStockEntry
             // 
-            resources.ApplyResources(this.btnStockEntry, "btnStockEntry");
             this.btnStockEntry.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(200)))));
+            resources.ApplyResources(this.btnStockEntry, "btnStockEntry");
             this.btnStockEntry.FlatAppearance.BorderSize = 0;
             this.btnStockEntry.ForeColor = System.Drawing.Color.White;
             this.btnStockEntry.Name = "btnStockEntry";
@@ -214,16 +215,16 @@
             // 
             // panelSubProduct
             // 
-            resources.ApplyResources(this.panelSubProduct, "panelSubProduct");
             this.panelSubProduct.Controls.Add(this.btnBrand);
             this.panelSubProduct.Controls.Add(this.btnCategory);
             this.panelSubProduct.Controls.Add(this.btnProductList);
+            resources.ApplyResources(this.panelSubProduct, "panelSubProduct");
             this.panelSubProduct.Name = "panelSubProduct";
             // 
             // btnBrand
             // 
-            resources.ApplyResources(this.btnBrand, "btnBrand");
             this.btnBrand.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(200)))));
+            resources.ApplyResources(this.btnBrand, "btnBrand");
             this.btnBrand.FlatAppearance.BorderSize = 0;
             this.btnBrand.ForeColor = System.Drawing.Color.White;
             this.btnBrand.Name = "btnBrand";
@@ -232,8 +233,8 @@
             // 
             // btnCategory
             // 
-            resources.ApplyResources(this.btnCategory, "btnCategory");
             this.btnCategory.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(200)))));
+            resources.ApplyResources(this.btnCategory, "btnCategory");
             this.btnCategory.FlatAppearance.BorderSize = 0;
             this.btnCategory.ForeColor = System.Drawing.Color.White;
             this.btnCategory.Name = "btnCategory";
@@ -242,8 +243,8 @@
             // 
             // btnProductList
             // 
-            resources.ApplyResources(this.btnProductList, "btnProductList");
             this.btnProductList.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(70)))), ((int)(((byte)(200)))));
+            resources.ApplyResources(this.btnProductList, "btnProductList");
             this.btnProductList.FlatAppearance.BorderSize = 0;
             this.btnProductList.ForeColor = System.Drawing.Color.White;
             this.btnProductList.Name = "btnProductList";
@@ -270,19 +271,12 @@
             // 
             // panelLogo
             // 
-            resources.ApplyResources(this.panelLogo, "panelLogo");
-            this.panelLogo.Controls.Add(this.lblName);
             this.panelLogo.Controls.Add(this.lblUsername);
             this.panelLogo.Controls.Add(this.lblRole);
             this.panelLogo.Controls.Add(this.pictureBox1);
+            resources.ApplyResources(this.panelLogo, "panelLogo");
             this.panelLogo.Name = "panelLogo";
             this.panelLogo.Paint += new System.Windows.Forms.PaintEventHandler(this.panelLogo_Paint);
-            // 
-            // lblName
-            // 
-            resources.ApplyResources(this.lblName, "lblName");
-            this.lblName.ForeColor = System.Drawing.Color.White;
-            this.lblName.Name = "lblName";
             // 
             // lblUsername
             // 
@@ -301,23 +295,22 @@
             resources.ApplyResources(this.pictureBox1, "pictureBox1");
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
+            // 
+            // lblName
+            // 
+            resources.ApplyResources(this.lblName, "lblName");
+            this.lblName.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.lblName.ForeColor = System.Drawing.Color.White;
+            this.lblName.Name = "lblName";
+            this.lblName.Click += new System.EventHandler(this.lblName_Click);
             // 
             // panelTitle
             // 
-            resources.ApplyResources(this.panelTitle, "panelTitle");
-            this.panelTitle.Controls.Add(this.lang_combBox);
+            this.panelTitle.Controls.Add(this.panelLanguage);
             this.panelTitle.Controls.Add(this.lblTitle);
+            resources.ApplyResources(this.panelTitle, "panelTitle");
             this.panelTitle.Name = "panelTitle";
-            // 
-            // lang_combBox
-            // 
-            resources.ApplyResources(this.lang_combBox, "lang_combBox");
-            this.lang_combBox.FormattingEnabled = true;
-            this.lang_combBox.Items.AddRange(new object[] {
-            resources.GetString("lang_combBox.Items"),
-            resources.GetString("lang_combBox.Items1")});
-            this.lang_combBox.Name = "lang_combBox";
-            this.lang_combBox.SelectedIndexChanged += new System.EventHandler(this.lang_combBox_SelectedIndexChanged);
             // 
             // lblTitle
             // 
@@ -327,10 +320,16 @@
             // 
             // panelMain
             // 
-            resources.ApplyResources(this.panelMain, "panelMain");
             this.panelMain.BackColor = System.Drawing.Color.White;
+            resources.ApplyResources(this.panelMain, "panelMain");
             this.panelMain.Name = "panelMain";
             this.panelMain.Paint += new System.Windows.Forms.PaintEventHandler(this.panelMain_Paint);
+            // 
+            // panelLanguage
+            // 
+            this.panelLanguage.Controls.Add(this.lblName);
+            resources.ApplyResources(this.panelLanguage, "panelLanguage");
+            this.panelLanguage.Name = "panelLanguage";
             // 
             // MainForm
             // 
@@ -352,6 +351,8 @@
             this.panelLogo.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panelTitle.ResumeLayout(false);
+            this.panelLanguage.ResumeLayout(false);
+            this.panelLanguage.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -387,7 +388,7 @@
         private System.Windows.Forms.Label lblRole;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label lblTitle;
-        private System.Windows.Forms.ComboBox lang_combBox;
+        private System.Windows.Forms.Panel panelLanguage;
     }
 }
 

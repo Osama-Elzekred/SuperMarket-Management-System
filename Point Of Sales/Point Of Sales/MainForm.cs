@@ -144,41 +144,36 @@ namespace Point_Of_Sales
 
         }
 
-        private void lang_combBox_SelectedIndexChanged(object sender, EventArgs e)
+       
+
+        private void lblName_Click(object sender, EventArgs e)
         {
-            //if (lang_combBox.SelectedIndex==0)
-            //{
-            //    Thread.CurrentThread.CurrentCulture = new System.Globalization.CultureInfo("ar");
-            //    this.Controls.Clear();
-            //    InitializeComponent();
-
-            //}
-            //else
-            //{
-            //    Thread.CurrentThread.CurrentCulture = new System.Globalization.CultureInfo("en");
-            //    this.Controls.Clear();
-            //    InitializeComponent();
-            //    this.RightToLeft = RightToLeft.No;
-            //    this.RightToLeftLayout = false;
-            //}
-            switch (lang_combBox.SelectedIndex)
-            {      // change the lang to Arabic
-                case 0:
-                    Thread.CurrentThread.CurrentUICulture = new CultureInfo("ar");
-                    this.Controls.Clear();
-                    InitializeComponent();
-                    break;
-
-                // change the lang to English
-                case 1:
-                default:
-                    Thread.CurrentThread.CurrentUICulture = new CultureInfo("en");
-                    this.Controls.Clear();
-                    InitializeComponent();
-                    this.RightToLeft = RightToLeft.No;
-                    this.RightToLeftLayout = false;
-                    break;
+            String lang = lblName.Text;
+            if (lang == "ENG")
+            {
+                Thread.CurrentThread.CurrentUICulture = new CultureInfo("en");
+                this.Controls.Clear();
+                InitializeComponent();
+                lblName.Text = "العربية";
+                this.RightToLeft = RightToLeft.No;
+                this.RightToLeftLayout = false;
+                hideSubmenu();
             }
+            else 
+            {
+                Thread.CurrentThread.CurrentUICulture = new CultureInfo("ar");
+                this.Controls.Clear();
+                InitializeComponent();
+                lblName.Text = "ENG";
+                hideSubmenu();
+
+            }
+
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
 
         }
     }

@@ -117,598 +117,736 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="lang_combBox.Items" xml:space="preserve">
-    <value>العربية</value>
-  </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
-  <data name="lblUsername.Location" type="System.Drawing.Point, System.Drawing">
-    <value>44, 115</value>
-  </data>
-  <data name="&gt;&gt;btnInStock.ZOrder" xml:space="preserve">
-    <value>7</value>
-  </data>
-  <data name="btnSupplier.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 528</value>
-  </data>
-  <data name="btnStockEntry.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="btnPOSRecord.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Top</value>
-  </data>
-  <data name="lblUsername.Text" xml:space="preserve">
-    <value>UserName</value>
-  </data>
-  <data name="&gt;&gt;btnUser.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btnProduct.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Top</value>
-  </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="lblName.Visible" type="System.Boolean, mscorlib">
-    <value>False</value>
-  </data>
-  <data name="lblName.AutoSize" type="System.Boolean, mscorlib">
+  <data name="panelSlide.AutoScroll" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
-  <data name="lang_combBox.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;lblName.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="btnSetting.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 0, 0, 0</value>
-  </data>
-  <data name="btnStockEntry.Size" type="System.Drawing.Size, System.Drawing">
-    <value>179, 45</value>
-  </data>
-  <data name="&gt;&gt;btnStore.Name" xml:space="preserve">
-    <value>btnStore</value>
-  </data>
-  <data name="&gt;&gt;btnBrand.Name" xml:space="preserve">
-    <value>btnBrand</value>
-  </data>
-  <data name="btnProduct.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="btnSaleHistory.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>25, 0, 0, 0</value>
-  </data>
-  <data name="&gt;&gt;btnProduct.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btnLogout.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="&gt;&gt;btnDashboard.Name" xml:space="preserve">
-    <value>btnDashboard</value>
-  </data>
-  <data name="&gt;&gt;btnPOSRecord.Parent" xml:space="preserve">
-    <value>panelSubRecord</value>
-  </data>
-  <data name="btnStore.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>25, 0, 0, 0</value>
-  </data>
-  <data name="&gt;&gt;pictureBox1.Name" xml:space="preserve">
-    <value>pictureBox1</value>
-  </data>
-  <data name="&gt;&gt;btnStore.Parent" xml:space="preserve">
-    <value>panelSubSetting</value>
-  </data>
-  <data name="panelLogo.Size" type="System.Drawing.Size, System.Drawing">
-    <value>179, 170</value>
-  </data>
-  <data name="btnUser.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Flat</value>
-  </data>
-  <data name="btnSetting.TabIndex" type="System.Int32, mscorlib">
-    <value>9</value>
-  </data>
-  <data name="btnBrand.Text" xml:space="preserve">
-    <value>Brand</value>
-  </data>
-  <data name="lblRole.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;btnLogout.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btnStockAdministrator.Text" xml:space="preserve">
-    <value>Stock Adjustment</value>
-  </data>
-  <data name="btnSetting.Size" type="System.Drawing.Size, System.Drawing">
-    <value>179, 45</value>
-  </data>
-  <data name="btnProductList.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="btnProduct.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Flat</value>
-  </data>
-  <data name="&gt;&gt;panelMain.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblRole.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btnProduct.Text" xml:space="preserve">
-    <value>Product</value>
-  </data>
-  <data name="lblRole.Location" type="System.Drawing.Point, System.Drawing">
-    <value>34, 146</value>
-  </data>
-  <data name="btnPOSRecord.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="btnSupplier.Text" xml:space="preserve">
-    <value>Supplier</value>
-  </data>
-  <data name="btnBrand.Size" type="System.Drawing.Size, System.Drawing">
-    <value>179, 45</value>
-  </data>
-  <data name="btnInStock.Size" type="System.Drawing.Size, System.Drawing">
-    <value>179, 45</value>
-  </data>
-  <data name="btnDashboard.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="btnSaleHistory.Text" xml:space="preserve">
-    <value>Sale History</value>
-  </data>
-  <data name="btnInStock.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 395</value>
-  </data>
-  <data name="btnSaleHistory.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="&gt;&gt;panelSubProduct.Name" xml:space="preserve">
-    <value>panelSubProduct</value>
-  </data>
-  <data name="btnSupplier.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Flat</value>
-  </data>
-  <data name="&gt;&gt;pictureBox1.Type" xml:space="preserve">
-    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnStockEntry.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="&gt;&gt;lblUsername.Name" xml:space="preserve">
-    <value>lblUsername</value>
-  </data>
-  <data name="btnPOSRecord.Size" type="System.Drawing.Size, System.Drawing">
-    <value>179, 45</value>
-  </data>
-  <data name="&gt;&gt;btnUser.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="btnStore.TabIndex" type="System.Int32, mscorlib">
-    <value>10</value>
-  </data>
-  <data name="&gt;&gt;btnLogout.Parent" xml:space="preserve">
-    <value>panelSlide</value>
-  </data>
-  <data name="lblTitle.Text" xml:space="preserve">
-    <value>TitleName</value>
-  </data>
-  <data name="btnStore.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Top</value>
-  </data>
-  <data name="btnRecord.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
-  </data>
-  <data name="btnInStock.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Top</value>
-  </data>
-  <data name="btnStockAdministrator.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>25, 0, 0, 0</value>
-  </data>
-  <data name="&gt;&gt;btnProductList.Parent" xml:space="preserve">
-    <value>panelSubProduct</value>
-  </data>
-  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>1182, 653</value>
-  </data>
-  <data name="btnProduct.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 0, 0, 0</value>
-  </data>
-  <data name="&gt;&gt;btnBrand.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="lblTitle.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Century Schoolbook, 12pt, style=Bold</value>
-  </data>
-  <data name="&gt;&gt;panelTitle.Name" xml:space="preserve">
-    <value>panelTitle</value>
-  </data>
-  <data name="btnSupplier.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Top</value>
-  </data>
-  <data name="&gt;&gt;panelLogo.ZOrder" xml:space="preserve">
-    <value>11</value>
-  </data>
-  <data name="&gt;&gt;btnRecord.Name" xml:space="preserve">
-    <value>btnRecord</value>
-  </data>
-  <data name="panelSubRecord.TabIndex" type="System.Int32, mscorlib">
-    <value>8</value>
-  </data>
-  <data name="btnUser.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="&gt;&gt;panelMain.Name" xml:space="preserve">
-    <value>panelMain</value>
-  </data>
-  <data name="panelLogo.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Top</value>
-  </data>
-  <data name="&gt;&gt;panelTitle.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="btnSaleHistory.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Flat</value>
-  </data>
-  <data name="btnSupplier.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
-  <data name="btnUser.TabIndex" type="System.Int32, mscorlib">
-    <value>9</value>
-  </data>
-  <data name="btnProductList.TabIndex" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
-  <data name="btnSaleHistory.Size" type="System.Drawing.Size, System.Drawing">
-    <value>179, 45</value>
-  </data>
-  <data name="&gt;&gt;btnSetting.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="btnPOSRecord.Text" xml:space="preserve">
-    <value>POS Record</value>
-  </data>
-  <data name="&gt;&gt;btnCategory.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnProduct.Name" xml:space="preserve">
-    <value>btnProduct</value>
-  </data>
-  <data name="&gt;&gt;btnSetting.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btnDashboard.TabIndex" type="System.Int32, mscorlib">
-    <value>1</value>
-  </data>
-  <data name="lblName.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="btnSaleHistory.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Top</value>
-  </data>
-  <data name="&gt;&gt;btnRecord.ZOrder" xml:space="preserve">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;panelSubSetting.Name" xml:space="preserve">
-    <value>panelSubSetting</value>
-  </data>
-  <data name="panelMain.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="&gt;&gt;lblUsername.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="panelLogo.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="&gt;&gt;lang_combBox.Type" xml:space="preserve">
-    <value>System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="lblUsername.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="btnStockAdministrator.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 45</value>
-  </data>
-  <data name="btnSetting.Text" xml:space="preserve">
-    <value>Setting</value>
-  </data>
-  <data name="panelSubSetting.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 751</value>
-  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="btnLogout.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Bottom</value>
   </data>
-  <data name="btnDashboard.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Top</value>
+  <data name="btnLogout.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
   </data>
-  <data name="&gt;&gt;panelSubStock.Parent" xml:space="preserve">
-    <value>panelSlide</value>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="btnLogout.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 839</value>
   </data>
-  <data name="&gt;&gt;panelSubStock.Name" xml:space="preserve">
-    <value>panelSubStock</value>
-  </data>
-  <data name="lblTitle.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;btnUser.Parent" xml:space="preserve">
-    <value>panelSubSetting</value>
-  </data>
-  <data name="btnInStock.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+  <data name="btnLogout.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>5, 0, 0, 0</value>
-  </data>
-  <data name="panelSubStock.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
-  </data>
-  <data name="panelSubRecord.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 618</value>
-  </data>
-  <data name="btnSupplier.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="panelSubRecord.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Top</value>
-  </data>
-  <data name="panelSubProduct.TabIndex" type="System.Int32, mscorlib">
-    <value>3</value>
-  </data>
-  <data name="&gt;&gt;btnDashboard.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="btnLogout.Size" type="System.Drawing.Size, System.Drawing">
     <value>179, 45</value>
   </data>
-  <data name="&gt;&gt;btnStockAdministrator.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>11, 21</value>
-  </data>
-  <data name="btnProduct.TabIndex" type="System.Int32, mscorlib">
-    <value>2</value>
-  </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>Form1</value>
-  </data>
-  <data name="lblName.Text" xml:space="preserve">
-    <value>Ln</value>
-  </data>
-  <data name="&gt;&gt;btnInStock.Name" xml:space="preserve">
-    <value>btnInStock</value>
-  </data>
-  <data name="panelMain.Size" type="System.Drawing.Size, System.Drawing">
-    <value>982, 613</value>
-  </data>
-  <data name="&gt;&gt;panelSubProduct.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnProduct.Parent" xml:space="preserve">
-    <value>panelSlide</value>
-  </data>
-  <data name="lblUsername.Size" type="System.Drawing.Size, System.Drawing">
-    <value>100, 21</value>
-  </data>
-  <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>75, 75</value>
-  </data>
-  <data name="&gt;&gt;lblUsername.Parent" xml:space="preserve">
-    <value>panelLogo</value>
-  </data>
-  <data name="&gt;&gt;lblRole.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
   <data name="btnLogout.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
   </data>
-  <data name="panelSubProduct.Size" type="System.Drawing.Size, System.Drawing">
-    <value>179, 135</value>
+  <data name="btnLogout.Text" xml:space="preserve">
+    <value>Logout</value>
   </data>
-  <data name="&gt;&gt;btnPOSRecord.Type" xml:space="preserve">
+  <data name="btnLogout.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;btnLogout.Name" xml:space="preserve">
+    <value>btnLogout</value>
+  </data>
+  <data name="&gt;&gt;btnLogout.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnLogout.Parent" xml:space="preserve">
+    <value>panelSlide</value>
+  </data>
+  <data name="&gt;&gt;btnLogout.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnStore.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
   </data>
   <data name="btnStore.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
     <value>Flat</value>
   </data>
-  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
-  </data>
   <data name="btnStore.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 45</value>
   </data>
-  <data name="btnStockEntry.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
-    <value>3</value>
-  </data>
-  <data name="btnCategory.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+  <data name="btnStore.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>25, 0, 0, 0</value>
   </data>
-  <data name="panelSubSetting.TabIndex" type="System.Int32, mscorlib">
+  <data name="btnStore.Size" type="System.Drawing.Size, System.Drawing">
+    <value>179, 45</value>
+  </data>
+  <data name="btnStore.TabIndex" type="System.Int32, mscorlib">
     <value>10</value>
   </data>
-  <data name="btnRecord.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 0, 0, 0</value>
+  <data name="btnStore.Text" xml:space="preserve">
+    <value>Store</value>
   </data>
-  <data name="btnPOSRecord.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 45</value>
-  </data>
-  <data name="btnDashboard.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 0, 0, 0</value>
-  </data>
-  <data name="&gt;&gt;btnPOSRecord.Name" xml:space="preserve">
-    <value>btnPOSRecord</value>
-  </data>
-  <data name="btnStockAdministrator.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Top</value>
-  </data>
-  <data name="btnInStock.Text" xml:space="preserve">
-    <value>In Stock</value>
-  </data>
-  <data name="btnCategory.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Top</value>
-  </data>
-  <data name="&gt;&gt;panelMain.Parent" xml:space="preserve">
-    <value>$this</value>
-  </data>
-  <data name="&gt;&gt;btnSetting.Parent" xml:space="preserve">
-    <value>panelSlide</value>
-  </data>
-  <data name="&gt;&gt;panelSubProduct.ZOrder" xml:space="preserve">
-    <value>8</value>
-  </data>
-  <data name="&gt;&gt;lblTitle.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="panelSubProduct.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Top</value>
-  </data>
-  <data name="&gt;&gt;$this.Name" xml:space="preserve">
-    <value>MainForm</value>
-  </data>
-  <data name="panelSubStock.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Top</value>
-  </data>
-  <data name="btnStockEntry.TabIndex" type="System.Int32, mscorlib">
-    <value>9</value>
-  </data>
-  <data name="btnStockAdministrator.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+  <data name="btnStore.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
-  <data name="btnStockAdministrator.TabIndex" type="System.Int32, mscorlib">
-    <value>10</value>
+  <data name="&gt;&gt;btnStore.Name" xml:space="preserve">
+    <value>btnStore</value>
   </data>
-  <data name="btnCategory.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
+  <data name="&gt;&gt;btnStore.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="btnStockEntry.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Top</value>
+  <data name="&gt;&gt;btnStore.Parent" xml:space="preserve">
+    <value>panelSubSetting</value>
   </data>
-  <data name="panelSlide.Size" type="System.Drawing.Size, System.Drawing">
-    <value>200, 653</value>
-  </data>
-  <data name="panelSubStock.Size" type="System.Drawing.Size, System.Drawing">
-    <value>179, 88</value>
-  </data>
-  <data name="panelSlide.AutoScroll" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="&gt;&gt;btnInStock.Parent" xml:space="preserve">
-    <value>panelSlide</value>
-  </data>
-  <data name="&gt;&gt;btnSupplier.Parent" xml:space="preserve">
-    <value>panelSlide</value>
+  <data name="&gt;&gt;btnStore.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
   <data name="btnUser.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Top</value>
   </data>
-  <data name="&gt;&gt;lblRole.Parent" xml:space="preserve">
-    <value>panelLogo</value>
+  <data name="btnUser.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
   </data>
-  <data name="&gt;&gt;btnStockAdministrator.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;btnSupplier.Name" xml:space="preserve">
-    <value>btnSupplier</value>
-  </data>
-  <data name="lang_combBox.Text" xml:space="preserve">
-    <value>Lang</value>
-  </data>
-  <data name="btnDashboard.Text" xml:space="preserve">
-    <value>Dashboard</value>
-  </data>
-  <data name="lang_combBox.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Century Gothic, 10.8pt, style=Bold</value>
-  </data>
-  <data name="&gt;&gt;btnCategory.Parent" xml:space="preserve">
-    <value>panelSubProduct</value>
-  </data>
-  <data name="&gt;&gt;btnProductList.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="panelSlide.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="btnUser.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 0</value>
   </data>
-  <data name="&gt;&gt;lang_combBox.Name" xml:space="preserve">
-    <value>lang_combBox</value>
+  <data name="btnUser.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>25, 0, 0, 0</value>
   </data>
-  <data name="btnLogout.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 839</value>
-  </data>
-  <data name="lblTitle.Size" type="System.Drawing.Size, System.Drawing">
-    <value>423, 24</value>
-  </data>
-  <data name="btnProductList.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="btnUser.Size" type="System.Drawing.Size, System.Drawing">
     <value>179, 45</value>
   </data>
-  <data name="&gt;&gt;btnProduct.ZOrder" xml:space="preserve">
+  <data name="btnUser.TabIndex" type="System.Int32, mscorlib">
     <value>9</value>
+  </data>
+  <data name="btnUser.Text" xml:space="preserve">
+    <value>User</value>
+  </data>
+  <data name="btnUser.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;btnUser.Name" xml:space="preserve">
+    <value>btnUser</value>
+  </data>
+  <data name="&gt;&gt;btnUser.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnUser.Parent" xml:space="preserve">
+    <value>panelSubSetting</value>
+  </data>
+  <data name="&gt;&gt;btnUser.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="panelSubSetting.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="panelSubSetting.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 751</value>
+  </data>
+  <data name="panelSubSetting.Size" type="System.Drawing.Size, System.Drawing">
+    <value>179, 88</value>
+  </data>
+  <data name="panelSubSetting.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="&gt;&gt;panelSubSetting.Name" xml:space="preserve">
+    <value>panelSubSetting</value>
+  </data>
+  <data name="&gt;&gt;panelSubSetting.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panelSubSetting.Parent" xml:space="preserve">
+    <value>panelSlide</value>
+  </data>
+  <data name="&gt;&gt;panelSubSetting.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btnSetting.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="btnSetting.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
   </data>
   <data name="btnSetting.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 706</value>
   </data>
+  <data name="btnSetting.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 0, 0, 0</value>
+  </data>
+  <data name="btnSetting.Size" type="System.Drawing.Size, System.Drawing">
+    <value>179, 45</value>
+  </data>
+  <data name="btnSetting.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="btnSetting.Text" xml:space="preserve">
+    <value>Setting</value>
+  </data>
+  <data name="btnSetting.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;btnSetting.Name" xml:space="preserve">
+    <value>btnSetting</value>
+  </data>
+  <data name="&gt;&gt;btnSetting.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnSetting.Parent" xml:space="preserve">
+    <value>panelSlide</value>
+  </data>
+  <data name="&gt;&gt;btnSetting.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btnPOSRecord.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="btnPOSRecord.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnPOSRecord.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 45</value>
+  </data>
+  <data name="btnPOSRecord.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>25, 0, 0, 0</value>
+  </data>
+  <data name="btnPOSRecord.Size" type="System.Drawing.Size, System.Drawing">
+    <value>179, 45</value>
+  </data>
+  <data name="btnPOSRecord.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="btnPOSRecord.Text" xml:space="preserve">
+    <value>POS Record</value>
+  </data>
+  <data name="btnPOSRecord.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;btnPOSRecord.Name" xml:space="preserve">
+    <value>btnPOSRecord</value>
+  </data>
+  <data name="&gt;&gt;btnPOSRecord.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnPOSRecord.Parent" xml:space="preserve">
+    <value>panelSubRecord</value>
+  </data>
+  <data name="&gt;&gt;btnPOSRecord.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnSaleHistory.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="btnSaleHistory.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnSaleHistory.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="btnSaleHistory.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>25, 0, 0, 0</value>
+  </data>
+  <data name="btnSaleHistory.Size" type="System.Drawing.Size, System.Drawing">
+    <value>179, 45</value>
+  </data>
+  <data name="btnSaleHistory.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="btnSaleHistory.Text" xml:space="preserve">
+    <value>Sale History</value>
+  </data>
+  <data name="btnSaleHistory.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;btnSaleHistory.Name" xml:space="preserve">
+    <value>btnSaleHistory</value>
+  </data>
+  <data name="&gt;&gt;btnSaleHistory.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnSaleHistory.Parent" xml:space="preserve">
+    <value>panelSubRecord</value>
+  </data>
+  <data name="&gt;&gt;btnSaleHistory.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="panelSubRecord.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="panelSubRecord.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 618</value>
+  </data>
+  <data name="panelSubRecord.Size" type="System.Drawing.Size, System.Drawing">
+    <value>179, 88</value>
+  </data>
+  <data name="panelSubRecord.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;panelSubRecord.Name" xml:space="preserve">
+    <value>panelSubRecord</value>
+  </data>
+  <data name="&gt;&gt;panelSubRecord.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panelSubRecord.Parent" xml:space="preserve">
+    <value>panelSlide</value>
+  </data>
+  <data name="&gt;&gt;panelSubRecord.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="btnRecord.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="btnRecord.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnRecord.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 573</value>
+  </data>
+  <data name="btnRecord.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 0, 0, 0</value>
+  </data>
+  <data name="btnRecord.Size" type="System.Drawing.Size, System.Drawing">
+    <value>179, 45</value>
+  </data>
+  <data name="btnRecord.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="btnRecord.Text" xml:space="preserve">
+    <value>Record</value>
+  </data>
+  <data name="btnRecord.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;btnRecord.Name" xml:space="preserve">
+    <value>btnRecord</value>
+  </data>
+  <data name="&gt;&gt;btnRecord.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnRecord.Parent" xml:space="preserve">
+    <value>panelSlide</value>
+  </data>
+  <data name="&gt;&gt;btnRecord.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="btnSupplier.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="btnSupplier.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnSupplier.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 528</value>
+  </data>
+  <data name="btnSupplier.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 0, 0, 0</value>
+  </data>
+  <data name="btnSupplier.Size" type="System.Drawing.Size, System.Drawing">
+    <value>179, 45</value>
+  </data>
+  <data name="btnSupplier.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="btnSupplier.Text" xml:space="preserve">
+    <value>Supplier</value>
+  </data>
+  <data name="btnSupplier.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;btnSupplier.Name" xml:space="preserve">
+    <value>btnSupplier</value>
+  </data>
+  <data name="&gt;&gt;btnSupplier.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnSupplier.Parent" xml:space="preserve">
+    <value>panelSlide</value>
+  </data>
+  <data name="&gt;&gt;btnSupplier.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="btnStockAdministrator.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
   <data name="btnStockAdministrator.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
     <value>Flat</value>
   </data>
-  <data name="panelSlide.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Left</value>
+  <data name="btnStockAdministrator.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 45</value>
   </data>
-  <data name="btnSetting.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+  <data name="btnStockAdministrator.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>25, 0, 0, 0</value>
+  </data>
+  <data name="btnStockAdministrator.Size" type="System.Drawing.Size, System.Drawing">
+    <value>179, 45</value>
+  </data>
+  <data name="btnStockAdministrator.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="btnStockAdministrator.Text" xml:space="preserve">
+    <value>Stock Adjustment</value>
+  </data>
+  <data name="btnStockAdministrator.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;btnStockAdministrator.Name" xml:space="preserve">
+    <value>btnStockAdministrator</value>
+  </data>
+  <data name="&gt;&gt;btnStockAdministrator.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnStockAdministrator.Parent" xml:space="preserve">
+    <value>panelSubStock</value>
+  </data>
+  <data name="&gt;&gt;btnStockAdministrator.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="btnStockEntry.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="btnStockEntry.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnStockEntry.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="btnStockEntry.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>25, 0, 0, 0</value>
+  </data>
+  <data name="btnStockEntry.Size" type="System.Drawing.Size, System.Drawing">
+    <value>179, 45</value>
+  </data>
+  <data name="btnStockEntry.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="btnStockEntry.Text" xml:space="preserve">
+    <value>Stock Entry</value>
+  </data>
+  <data name="btnStockEntry.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
   <data name="&gt;&gt;btnStockEntry.Name" xml:space="preserve">
     <value>btnStockEntry</value>
   </data>
-  <data name="btnSaleHistory.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="btnSaleHistory.TabIndex" type="System.Int32, mscorlib">
-    <value>9</value>
-  </data>
-  <data name="&gt;&gt;btnBrand.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;panelSubProduct.Parent" xml:space="preserve">
-    <value>panelSlide</value>
-  </data>
-  <data name="panelMain.Location" type="System.Drawing.Point, System.Drawing">
-    <value>200, 40</value>
-  </data>
-  <data name="btnRecord.Text" xml:space="preserve">
-    <value>Record</value>
-  </data>
-  <data name="&gt;&gt;btnSupplier.Type" xml:space="preserve">
+  <data name="&gt;&gt;btnStockEntry.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="btnProduct.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="&gt;&gt;btnStockEntry.Parent" xml:space="preserve">
+    <value>panelSubStock</value>
+  </data>
+  <data name="&gt;&gt;btnStockEntry.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="panelSubStock.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="panelSubStock.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 440</value>
+  </data>
+  <data name="panelSubStock.Size" type="System.Drawing.Size, System.Drawing">
+    <value>179, 88</value>
+  </data>
+  <data name="panelSubStock.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;panelSubStock.Name" xml:space="preserve">
+    <value>panelSubStock</value>
+  </data>
+  <data name="&gt;&gt;panelSubStock.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panelSubStock.Parent" xml:space="preserve">
+    <value>panelSlide</value>
+  </data>
+  <data name="&gt;&gt;panelSubStock.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="btnInStock.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="btnInStock.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnInStock.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 395</value>
+  </data>
+  <data name="btnInStock.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 0, 0, 0</value>
+  </data>
+  <data name="btnInStock.Size" type="System.Drawing.Size, System.Drawing">
     <value>179, 45</value>
+  </data>
+  <data name="btnInStock.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="btnInStock.Text" xml:space="preserve">
+    <value>In Stock</value>
+  </data>
+  <data name="btnInStock.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;btnInStock.Name" xml:space="preserve">
+    <value>btnInStock</value>
+  </data>
+  <data name="&gt;&gt;btnInStock.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnInStock.Parent" xml:space="preserve">
+    <value>panelSlide</value>
+  </data>
+  <data name="&gt;&gt;btnInStock.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="btnBrand.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="btnBrand.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnBrand.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 90</value>
   </data>
   <data name="btnBrand.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>25, 0, 0, 0</value>
   </data>
-  <data name="&gt;&gt;lang_combBox.ZOrder" xml:space="preserve">
+  <data name="btnBrand.Size" type="System.Drawing.Size, System.Drawing">
+    <value>179, 45</value>
+  </data>
+  <data name="btnBrand.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="btnBrand.Text" xml:space="preserve">
+    <value>Brand</value>
+  </data>
+  <data name="btnBrand.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;btnBrand.Name" xml:space="preserve">
+    <value>btnBrand</value>
+  </data>
+  <data name="&gt;&gt;btnBrand.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnBrand.Parent" xml:space="preserve">
+    <value>panelSubProduct</value>
+  </data>
+  <data name="&gt;&gt;btnBrand.ZOrder" xml:space="preserve">
     <value>0</value>
+  </data>
+  <data name="btnCategory.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="btnCategory.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
   </data>
   <data name="btnCategory.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 45</value>
   </data>
-  <data name="&gt;&gt;btnStore.ZOrder" xml:space="preserve">
-    <value>0</value>
+  <data name="btnCategory.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>25, 0, 0, 0</value>
   </data>
-  <data name="&gt;&gt;btnRecord.Parent" xml:space="preserve">
-    <value>panelSlide</value>
+  <data name="btnCategory.Size" type="System.Drawing.Size, System.Drawing">
+    <value>179, 45</value>
   </data>
-  <data name="&gt;&gt;lblName.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="btnCategory.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
   </data>
-  <data name="&gt;&gt;btnStore.Type" xml:space="preserve">
+  <data name="btnCategory.Text" xml:space="preserve">
+    <value>Category</value>
+  </data>
+  <data name="btnCategory.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;btnCategory.Name" xml:space="preserve">
+    <value>btnCategory</value>
+  </data>
+  <data name="&gt;&gt;btnCategory.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="panelTitle.TabIndex" type="System.Int32, mscorlib">
+  <data name="&gt;&gt;btnCategory.Parent" xml:space="preserve">
+    <value>panelSubProduct</value>
+  </data>
+  <data name="&gt;&gt;btnCategory.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
-  <data name="&gt;&gt;panelSubSetting.ZOrder" xml:space="preserve">
+  <data name="btnProductList.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="btnProductList.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnProductList.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="btnProductList.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>25, 0, 0, 0</value>
+  </data>
+  <data name="btnProductList.Size" type="System.Drawing.Size, System.Drawing">
+    <value>179, 45</value>
+  </data>
+  <data name="btnProductList.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="btnProductList.Text" xml:space="preserve">
+    <value>Product List</value>
+  </data>
+  <data name="btnProductList.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;btnProductList.Name" xml:space="preserve">
+    <value>btnProductList</value>
+  </data>
+  <data name="&gt;&gt;btnProductList.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnProductList.Parent" xml:space="preserve">
+    <value>panelSubProduct</value>
+  </data>
+  <data name="&gt;&gt;btnProductList.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="panelSubProduct.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="panelSubProduct.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 260</value>
+  </data>
+  <data name="panelSubProduct.Size" type="System.Drawing.Size, System.Drawing">
+    <value>179, 135</value>
+  </data>
+  <data name="panelSubProduct.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;panelSubProduct.Name" xml:space="preserve">
+    <value>panelSubProduct</value>
+  </data>
+  <data name="&gt;&gt;panelSubProduct.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panelSubProduct.Parent" xml:space="preserve">
+    <value>panelSlide</value>
+  </data>
+  <data name="&gt;&gt;panelSubProduct.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="btnProduct.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="btnProduct.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnProduct.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 215</value>
+  </data>
+  <data name="btnProduct.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 0, 0, 0</value>
+  </data>
+  <data name="btnProduct.Size" type="System.Drawing.Size, System.Drawing">
+    <value>179, 45</value>
+  </data>
+  <data name="btnProduct.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btnProduct.Text" xml:space="preserve">
+    <value>Product</value>
+  </data>
+  <data name="btnProduct.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;btnProduct.Name" xml:space="preserve">
+    <value>btnProduct</value>
+  </data>
+  <data name="&gt;&gt;btnProduct.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnProduct.Parent" xml:space="preserve">
+    <value>panelSlide</value>
+  </data>
+  <data name="&gt;&gt;btnProduct.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="btnDashboard.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Top</value>
+  </data>
+  <data name="btnDashboard.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
+  <data name="btnDashboard.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 170</value>
+  </data>
+  <data name="btnDashboard.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>5, 0, 0, 0</value>
+  </data>
+  <data name="btnDashboard.Size" type="System.Drawing.Size, System.Drawing">
+    <value>179, 45</value>
+  </data>
+  <data name="btnDashboard.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="btnDashboard.Text" xml:space="preserve">
+    <value>Dashboard</value>
+  </data>
+  <data name="btnDashboard.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleLeft</value>
+  </data>
+  <data name="&gt;&gt;btnDashboard.Name" xml:space="preserve">
+    <value>btnDashboard</value>
+  </data>
+  <data name="&gt;&gt;btnDashboard.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;btnDashboard.Parent" xml:space="preserve">
+    <value>panelSlide</value>
+  </data>
+  <data name="&gt;&gt;btnDashboard.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="lblUsername.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblUsername.Location" type="System.Drawing.Point, System.Drawing">
+    <value>44, 115</value>
+  </data>
+  <data name="lblUsername.Size" type="System.Drawing.Size, System.Drawing">
+    <value>100, 21</value>
+  </data>
+  <data name="lblUsername.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="lblUsername.Text" xml:space="preserve">
+    <value>UserName</value>
+  </data>
+  <data name="&gt;&gt;lblUsername.Name" xml:space="preserve">
+    <value>lblUsername</value>
+  </data>
+  <data name="&gt;&gt;lblUsername.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblUsername.Parent" xml:space="preserve">
+    <value>panelLogo</value>
+  </data>
+  <data name="&gt;&gt;lblUsername.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="lblRole.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblRole.Location" type="System.Drawing.Point, System.Drawing">
+    <value>34, 146</value>
+  </data>
+  <data name="lblRole.Size" type="System.Drawing.Size, System.Drawing">
+    <value>126, 21</value>
+  </data>
+  <data name="lblRole.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="lblRole.Text" xml:space="preserve">
+    <value>Administrator</value>
+  </data>
+  <data name="&gt;&gt;lblRole.Name" xml:space="preserve">
+    <value>lblRole</value>
+  </data>
+  <data name="&gt;&gt;lblRole.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblRole.Parent" xml:space="preserve">
+    <value>panelLogo</value>
+  </data>
+  <data name="&gt;&gt;lblRole.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
   <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
@@ -747,308 +885,161 @@
         0qVLly5damfYsP8BjD71KAfn9x8AAAAASUVORK5CYII=
 </value>
   </data>
-  <data name="&gt;&gt;btnBrand.Parent" xml:space="preserve">
-    <value>panelSubProduct</value>
-  </data>
-  <data name="&gt;&gt;btnPOSRecord.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="&gt;&gt;btnStockEntry.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;btnSetting.Name" xml:space="preserve">
-    <value>btnSetting</value>
-  </data>
-  <data name="lang_combBox.Location" type="System.Drawing.Point, System.Drawing">
-    <value>849, 8</value>
-  </data>
-  <data name="&gt;&gt;panelSubStock.ZOrder" xml:space="preserve">
-    <value>6</value>
-  </data>
-  <data name="&gt;&gt;btnDashboard.ZOrder" xml:space="preserve">
-    <value>10</value>
-  </data>
-  <data name="btnStockAdministrator.Size" type="System.Drawing.Size, System.Drawing">
-    <value>179, 45</value>
-  </data>
-  <data name="panelSubStock.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 440</value>
-  </data>
-  <data name="btnLogout.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 0, 0, 0</value>
-  </data>
-  <data name="&gt;&gt;pictureBox1.Parent" xml:space="preserve">
-    <value>panelLogo</value>
-  </data>
-  <data name="panelSubSetting.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Top</value>
-  </data>
-  <data name="panelTitle.Location" type="System.Drawing.Point, System.Drawing">
-    <value>200, 0</value>
-  </data>
-  <data name="&gt;&gt;btnSaleHistory.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;panelSlide.ZOrder" xml:space="preserve">
-    <value>2</value>
-  </data>
-  <data name="btnRecord.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="panelSubSetting.Size" type="System.Drawing.Size, System.Drawing">
-    <value>179, 88</value>
-  </data>
-  <data name="lang_combBox.Size" type="System.Drawing.Size, System.Drawing">
-    <value>121, 30</value>
-  </data>
-  <data name="panelSlide.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="panelSubProduct.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 260</value>
-  </data>
-  <data name="btnUser.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="&gt;&gt;btnInStock.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btnInStock.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Flat</value>
-  </data>
-  <data name="btnProductList.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 0</value>
-  </data>
-  <data name="&gt;&gt;panelSubRecord.Parent" xml:space="preserve">
-    <value>panelSlide</value>
-  </data>
-  <data name="&gt;&gt;panelTitle.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btnInStock.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
-  </data>
-  <data name="&gt;&gt;btnSupplier.ZOrder" xml:space="preserve">
-    <value>5</value>
-  </data>
-  <data name="btnDashboard.Size" type="System.Drawing.Size, System.Drawing">
-    <value>179, 45</value>
-  </data>
-  <data name="btnStore.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="btnUser.Size" type="System.Drawing.Size, System.Drawing">
-    <value>179, 45</value>
-  </data>
-  <data name="btnLogout.Text" xml:space="preserve">
-    <value>Logout</value>
-  </data>
-  <data name="&gt;&gt;btnSaleHistory.Parent" xml:space="preserve">
-    <value>panelSubRecord</value>
-  </data>
-  <data name="&gt;&gt;lblTitle.Name" xml:space="preserve">
-    <value>lblTitle</value>
-  </data>
-  <data name="btnSetting.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Flat</value>
-  </data>
-  <data name="&gt;&gt;btnCategory.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="panelTitle.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Top</value>
-  </data>
-  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
-    <value>Century Gothic, 10.8pt</value>
-  </data>
-  <data name="&gt;&gt;btnUser.Name" xml:space="preserve">
-    <value>btnUser</value>
-  </data>
-  <data name="&gt;&gt;btnDashboard.Parent" xml:space="preserve">
-    <value>panelSlide</value>
-  </data>
-  <data name="btnProductList.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>25, 0, 0, 0</value>
-  </data>
-  <data name="lblUsername.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="btnLogout.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Flat</value>
-  </data>
-  <data name="btnSupplier.Size" type="System.Drawing.Size, System.Drawing">
-    <value>179, 45</value>
-  </data>
-  <data name="btnProductList.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Flat</value>
-  </data>
-  <data name="btnSupplier.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>5, 0, 0, 0</value>
-  </data>
-  <data name="btnRecord.Size" type="System.Drawing.Size, System.Drawing">
-    <value>179, 45</value>
-  </data>
-  <data name="&gt;&gt;panelMain.ZOrder" xml:space="preserve">
-    <value>0</value>
-  </data>
-  <data name="lblName.Size" type="System.Drawing.Size, System.Drawing">
-    <value>29, 21</value>
-  </data>
-  <data name="btnUser.Text" xml:space="preserve">
-    <value>User</value>
-  </data>
-  <data name="$this.MinimumSize" type="System.Drawing.Size, System.Drawing">
-    <value>1200, 700</value>
-  </data>
-  <data name="btnCategory.Size" type="System.Drawing.Size, System.Drawing">
-    <value>179, 45</value>
-  </data>
-  <data name="btnCategory.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Flat</value>
-  </data>
-  <data name="lblRole.Size" type="System.Drawing.Size, System.Drawing">
-    <value>126, 21</value>
-  </data>
-  <data name="&gt;&gt;panelSlide.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="lang_combBox.Items1" xml:space="preserve">
-    <value>English</value>
-  </data>
-  <data name="&gt;&gt;btnProductList.Name" xml:space="preserve">
-    <value>btnProductList</value>
-  </data>
-  <data name="&gt;&gt;btnSaleHistory.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="btnDashboard.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Flat</value>
-  </data>
-  <data name="btnInStock.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="panelLogo.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
-  <data name="lang_combBox.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Popup</value>
-  </data>
-  <data name="btnStore.Size" type="System.Drawing.Size, System.Drawing">
-    <value>179, 45</value>
-  </data>
-  <data name="&gt;&gt;lblRole.Name" xml:space="preserve">
-    <value>lblRole</value>
-  </data>
-  <data name="btnBrand.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
-  </data>
-  <data name="&gt;&gt;panelSubRecord.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblName.Name" xml:space="preserve">
-    <value>lblName</value>
-  </data>
-  <data name="&gt;&gt;btnCategory.Name" xml:space="preserve">
-    <value>btnCategory</value>
-  </data>
-  <data name="btnCategory.Text" xml:space="preserve">
-    <value>Category</value>
-  </data>
-  <data name="&gt;&gt;btnStockAdministrator.Name" xml:space="preserve">
-    <value>btnStockAdministrator</value>
-  </data>
-  <data name="btnStockEntry.Text" xml:space="preserve">
-    <value>Stock Entry</value>
-  </data>
-  <data name="&gt;&gt;panelSubRecord.Name" xml:space="preserve">
-    <value>panelSubRecord</value>
-  </data>
-  <data name="btnBrand.TabIndex" type="System.Int32, mscorlib">
-    <value>8</value>
-  </data>
-  <data name="&gt;&gt;panelSubSetting.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="btnStockEntry.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Flat</value>
-  </data>
-  <data name="btnPOSRecord.TabIndex" type="System.Int32, mscorlib">
-    <value>10</value>
-  </data>
   <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
     <value>48, 12</value>
   </data>
-  <data name="btnStockEntry.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>25, 0, 0, 0</value>
+  <data name="pictureBox1.MaximumSize" type="System.Drawing.Size, System.Drawing">
+    <value>75, 75</value>
   </data>
-  <data name="&gt;&gt;btnProductList.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="pictureBox1.MinimumSize" type="System.Drawing.Size, System.Drawing">
+    <value>75, 75</value>
   </data>
-  <data name="&gt;&gt;panelLogo.Parent" xml:space="preserve">
-    <value>panelSlide</value>
+  <data name="pictureBox1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>75, 75</value>
   </data>
-  <data name="&gt;&gt;lblUsername.ZOrder" xml:space="preserve">
-    <value>1</value>
-  </data>
-  <data name="btnBrand.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Flat</value>
-  </data>
-  <data name="lblTitle.Location" type="System.Drawing.Point, System.Drawing">
-    <value>300, 4</value>
-  </data>
-  <data name="btnPOSRecord.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>25, 0, 0, 0</value>
-  </data>
-  <data name="panelSubRecord.Size" type="System.Drawing.Size, System.Drawing">
-    <value>179, 88</value>
-  </data>
-  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
-    <value>CenterScreen</value>
-  </data>
-  <data name="&gt;&gt;btnSaleHistory.Name" xml:space="preserve">
-    <value>btnSaleHistory</value>
-  </data>
-  <data name="&gt;&gt;panelSlide.Name" xml:space="preserve">
-    <value>panelSlide</value>
-  </data>
-  <data name="btnUser.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>25, 0, 0, 0</value>
-  </data>
-  <data name="btnProduct.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 215</value>
+  <data name="pictureBox1.SizeMode" type="System.Windows.Forms.PictureBoxSizeMode, System.Windows.Forms">
+    <value>AutoSize</value>
   </data>
   <data name="pictureBox1.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
-  <data name="&gt;&gt;panelTitle.Parent" xml:space="preserve">
-    <value>$this</value>
+  <data name="&gt;&gt;pictureBox1.Name" xml:space="preserve">
+    <value>pictureBox1</value>
   </data>
-  <data name="lblRole.Text" xml:space="preserve">
-    <value>Administrator</value>
+  <data name="&gt;&gt;pictureBox1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.PictureBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;btnLogout.Name" xml:space="preserve">
-    <value>btnLogout</value>
+  <data name="&gt;&gt;pictureBox1.Parent" xml:space="preserve">
+    <value>panelLogo</value>
   </data>
-  <data name="btnRecord.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 573</value>
+  <data name="&gt;&gt;pictureBox1.ZOrder" xml:space="preserve">
+    <value>2</value>
   </data>
-  <data name="&gt;&gt;btnStockAdministrator.Parent" xml:space="preserve">
-    <value>panelSubStock</value>
-  </data>
-  <data name="lblName.Location" type="System.Drawing.Point, System.Drawing">
-    <value>3, 90</value>
-  </data>
-  <data name="btnSetting.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+  <data name="panelLogo.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Top</value>
   </data>
-  <data name="btnStore.Text" xml:space="preserve">
-    <value>Store</value>
+  <data name="panelLogo.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
   </data>
-  <data name="&gt;&gt;$this.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="panelLogo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>179, 170</value>
   </data>
-  <data name="&gt;&gt;btnLogout.ZOrder" xml:space="preserve">
+  <data name="panelLogo.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
+  </data>
+  <data name="&gt;&gt;panelLogo.Name" xml:space="preserve">
+    <value>panelLogo</value>
+  </data>
+  <data name="&gt;&gt;panelLogo.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panelLogo.Parent" xml:space="preserve">
+    <value>panelSlide</value>
+  </data>
+  <data name="&gt;&gt;panelLogo.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="panelSlide.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Left</value>
+  </data>
+  <data name="panelSlide.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="panelSlide.Size" type="System.Drawing.Size, System.Drawing">
+    <value>200, 653</value>
+  </data>
+  <data name="panelSlide.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;panelSlide.Name" xml:space="preserve">
+    <value>panelSlide</value>
+  </data>
+  <data name="&gt;&gt;panelSlide.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panelSlide.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panelSlide.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="lblName.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="lblName.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 8pt</value>
+  </data>
+  <data name="lblName.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 12</value>
+  </data>
+  <data name="lblName.Size" type="System.Drawing.Size, System.Drawing">
+    <value>38, 19</value>
+  </data>
+  <data name="lblName.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="lblName.Text" xml:space="preserve">
+    <value>العربية</value>
+  </data>
+  <data name="&gt;&gt;lblName.Name" xml:space="preserve">
+    <value>lblName</value>
+  </data>
+  <data name="&gt;&gt;lblName.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;lblName.Parent" xml:space="preserve">
+    <value>panelLanguage</value>
+  </data>
+  <data name="&gt;&gt;lblName.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="panelLanguage.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="panelLanguage.Location" type="System.Drawing.Point, System.Drawing">
+    <value>939, 0</value>
+  </data>
+  <data name="panelLanguage.Size" type="System.Drawing.Size, System.Drawing">
+    <value>43, 40</value>
+  </data>
+  <data name="panelLanguage.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;panelLanguage.Name" xml:space="preserve">
+    <value>panelLanguage</value>
+  </data>
+  <data name="&gt;&gt;panelLanguage.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panelLanguage.Parent" xml:space="preserve">
+    <value>panelTitle</value>
+  </data>
+  <data name="&gt;&gt;panelLanguage.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="lblTitle.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
+  </data>
+  <data name="lblTitle.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Schoolbook, 12pt, style=Bold</value>
+  </data>
+  <data name="lblTitle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 0</value>
+  </data>
+  <data name="lblTitle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>982, 40</value>
+  </data>
+  <data name="lblTitle.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="lblTitle.Text" xml:space="preserve">
+    <value>TitleName</value>
+  </data>
+  <data name="lblTitle.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
+    <value>MiddleCenter</value>
+  </data>
+  <data name="&gt;&gt;lblTitle.Name" xml:space="preserve">
+    <value>lblTitle</value>
   </data>
   <data name="&gt;&gt;lblTitle.Type" xml:space="preserve">
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -1056,76 +1047,82 @@
   <data name="&gt;&gt;lblTitle.Parent" xml:space="preserve">
     <value>panelTitle</value>
   </data>
-  <data name="&gt;&gt;panelSubStock.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  <data name="&gt;&gt;lblTitle.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
-  <data name="btnRecord.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+  <data name="panelTitle.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Top</value>
   </data>
-  <data name="&gt;&gt;panelSubSetting.Parent" xml:space="preserve">
-    <value>panelSlide</value>
-  </data>
-  <data name="&gt;&gt;panelLogo.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;panelLogo.Name" xml:space="preserve">
-    <value>panelLogo</value>
-  </data>
-  <data name="btnPOSRecord.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Flat</value>
-  </data>
-  <data name="lblRole.AutoSize" type="System.Boolean, mscorlib">
-    <value>True</value>
-  </data>
-  <data name="btnBrand.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Top</value>
-  </data>
-  <data name="&gt;&gt;btnRecord.Type" xml:space="preserve">
-    <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-  </data>
-  <data name="&gt;&gt;lblName.Parent" xml:space="preserve">
-    <value>panelLogo</value>
-  </data>
-  <data name="&gt;&gt;lang_combBox.Parent" xml:space="preserve">
-    <value>panelTitle</value>
-  </data>
-  <data name="btnBrand.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 90</value>
-  </data>
-  <data name="lblTitle.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleCenter</value>
-  </data>
-  <data name="btnRecord.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Flat</value>
+  <data name="panelTitle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>200, 0</value>
   </data>
   <data name="panelTitle.Size" type="System.Drawing.Size, System.Drawing">
     <value>982, 40</value>
   </data>
-  <data name="btnDashboard.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 170</value>
+  <data name="panelTitle.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
   </data>
-  <data name="btnProductList.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
-    <value>Top</value>
+  <data name="&gt;&gt;panelTitle.Name" xml:space="preserve">
+    <value>panelTitle</value>
   </data>
-  <data name="btnCategory.TextAlign" type="System.Drawing.ContentAlignment, System.Drawing">
-    <value>MiddleLeft</value>
+  <data name="&gt;&gt;panelTitle.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;panelSlide.Parent" xml:space="preserve">
+  <data name="&gt;&gt;panelTitle.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;panelSubRecord.ZOrder" xml:space="preserve">
-    <value>3</value>
+  <data name="&gt;&gt;panelTitle.ZOrder" xml:space="preserve">
+    <value>1</value>
   </data>
-  <data name="btnProductList.Text" xml:space="preserve">
-    <value>Product List</value>
+  <data name="panelMain.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
+    <value>Fill</value>
   </data>
-  <data name="&gt;&gt;btnStockEntry.Parent" xml:space="preserve">
-    <value>panelSubStock</value>
+  <data name="panelMain.Location" type="System.Drawing.Point, System.Drawing">
+    <value>200, 40</value>
+  </data>
+  <data name="panelMain.Size" type="System.Drawing.Size, System.Drawing">
+    <value>982, 613</value>
+  </data>
+  <data name="panelMain.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;panelMain.Name" xml:space="preserve">
+    <value>panelMain</value>
+  </data>
+  <data name="&gt;&gt;panelMain.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;panelMain.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;panelMain.ZOrder" xml:space="preserve">
+    <value>0</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
-  <metadata name="$this.Language" type="System.Globalization.CultureInfo, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>en</value>
-  </metadata>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>11, 21</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1182, 653</value>
+  </data>
+  <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
+    <value>Century Gothic, 10.8pt</value>
+  </data>
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
+  </data>
+  <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
+    <value>CenterScreen</value>
+  </data>
+  <data name="$this.Text" xml:space="preserve">
+    <value>Form1</value>
+  </data>
+  <data name="&gt;&gt;$this.Name" xml:space="preserve">
+    <value>MainForm</value>
+  </data>
+  <data name="&gt;&gt;$this.Type" xml:space="preserve">
+    <value>System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>
