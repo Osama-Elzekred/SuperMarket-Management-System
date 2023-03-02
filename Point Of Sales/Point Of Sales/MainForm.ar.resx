@@ -121,11 +121,30 @@
   <data name="btnLogout.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
   </data>
+  <data name="btnLogout.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 839</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btnLogout.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 0, 0, 0</value>
+  </data>
+  <data name="btnLogout.Size" type="System.Drawing.Size, System.Drawing">
+    <value>178, 45</value>
+  </data>
   <data name="btnLogout.Text" xml:space="preserve">
     <value>تسجيل الخروج</value>
   </data>
   <data name="btnStore.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
+  </data>
+  <data name="btnStore.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 45</value>
+  </data>
+  <data name="btnStore.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 20, 0</value>
+  </data>
+  <data name="btnStore.Size" type="System.Drawing.Size, System.Drawing">
+    <value>178, 45</value>
   </data>
   <data name="btnStore.Text" xml:space="preserve">
     <value>المتجر</value>
@@ -133,11 +152,32 @@
   <data name="btnUser.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
   </data>
+  <data name="btnUser.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 20, 0</value>
+  </data>
+  <data name="btnUser.Size" type="System.Drawing.Size, System.Drawing">
+    <value>178, 45</value>
+  </data>
   <data name="btnUser.Text" xml:space="preserve">
     <value>المستخدم</value>
   </data>
+  <data name="panelSubSetting.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 751</value>
+  </data>
+  <data name="panelSubSetting.Size" type="System.Drawing.Size, System.Drawing">
+    <value>178, 88</value>
+  </data>
   <data name="btnSetting.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
+  </data>
+  <data name="btnSetting.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 706</value>
+  </data>
+  <data name="btnSetting.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 0, 0, 0</value>
+  </data>
+  <data name="btnSetting.Size" type="System.Drawing.Size, System.Drawing">
+    <value>178, 45</value>
   </data>
   <data name="btnSetting.Text" xml:space="preserve">
     <value>الأعدادات</value>
@@ -145,14 +185,44 @@
   <data name="btnPOSRecord.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
   </data>
+  <data name="btnPOSRecord.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 45</value>
+  </data>
+  <data name="btnPOSRecord.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 20, 0</value>
+  </data>
+  <data name="btnPOSRecord.Size" type="System.Drawing.Size, System.Drawing">
+    <value>178, 45</value>
+  </data>
   <data name="btnSaleHistory.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
+  </data>
+  <data name="btnSaleHistory.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 20, 0</value>
+  </data>
+  <data name="btnSaleHistory.Size" type="System.Drawing.Size, System.Drawing">
+    <value>178, 45</value>
   </data>
   <data name="btnSaleHistory.Text" xml:space="preserve">
     <value>المبيعات</value>
   </data>
+  <data name="panelSubRecord.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 618</value>
+  </data>
+  <data name="panelSubRecord.Size" type="System.Drawing.Size, System.Drawing">
+    <value>178, 88</value>
+  </data>
   <data name="btnRecord.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
+  </data>
+  <data name="btnRecord.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 573</value>
+  </data>
+  <data name="btnRecord.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 0, 0, 0</value>
+  </data>
+  <data name="btnRecord.Size" type="System.Drawing.Size, System.Drawing">
+    <value>178, 45</value>
   </data>
   <data name="btnRecord.Text" xml:space="preserve">
     <value>السجل</value>
@@ -160,11 +230,29 @@
   <data name="btnSupplier.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
   </data>
+  <data name="btnSupplier.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 528</value>
+  </data>
+  <data name="btnSupplier.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 0, 0, 0</value>
+  </data>
+  <data name="btnSupplier.Size" type="System.Drawing.Size, System.Drawing">
+    <value>178, 45</value>
+  </data>
   <data name="btnSupplier.Text" xml:space="preserve">
     <value>المورد</value>
   </data>
   <data name="btnStockAdministrator.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
+  </data>
+  <data name="btnStockAdministrator.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 45</value>
+  </data>
+  <data name="btnStockAdministrator.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 20, 0</value>
+  </data>
+  <data name="btnStockAdministrator.Size" type="System.Drawing.Size, System.Drawing">
+    <value>178, 45</value>
   </data>
   <data name="btnStockAdministrator.Text" xml:space="preserve">
     <value>تعديلات المخزون</value>
@@ -172,11 +260,32 @@
   <data name="btnStockEntry.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
   </data>
+  <data name="btnStockEntry.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 20, 0</value>
+  </data>
+  <data name="btnStockEntry.Size" type="System.Drawing.Size, System.Drawing">
+    <value>178, 45</value>
+  </data>
   <data name="btnStockEntry.Text" xml:space="preserve">
     <value> بيانات المخزن</value>
   </data>
+  <data name="panelSubStock.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 440</value>
+  </data>
+  <data name="panelSubStock.Size" type="System.Drawing.Size, System.Drawing">
+    <value>178, 88</value>
+  </data>
   <data name="btnInStock.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
+  </data>
+  <data name="btnInStock.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 395</value>
+  </data>
+  <data name="btnInStock.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 0, 0, 0</value>
+  </data>
+  <data name="btnInStock.Size" type="System.Drawing.Size, System.Drawing">
+    <value>178, 45</value>
   </data>
   <data name="btnInStock.Text" xml:space="preserve">
     <value>في المخزن</value>
@@ -184,11 +293,29 @@
   <data name="btnBrand.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
   </data>
+  <data name="btnBrand.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 90</value>
+  </data>
+  <data name="btnBrand.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 20, 0</value>
+  </data>
+  <data name="btnBrand.Size" type="System.Drawing.Size, System.Drawing">
+    <value>178, 45</value>
+  </data>
   <data name="btnBrand.Text" xml:space="preserve">
     <value>الماركة</value>
   </data>
   <data name="btnCategory.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
+  </data>
+  <data name="btnCategory.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 45</value>
+  </data>
+  <data name="btnCategory.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 20, 0</value>
+  </data>
+  <data name="btnCategory.Size" type="System.Drawing.Size, System.Drawing">
+    <value>178, 45</value>
   </data>
   <data name="btnCategory.Text" xml:space="preserve">
     <value>الصنف</value>
@@ -196,17 +323,47 @@
   <data name="btnProductList.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
   </data>
+  <data name="btnProductList.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>0, 0, 20, 0</value>
+  </data>
+  <data name="btnProductList.Size" type="System.Drawing.Size, System.Drawing">
+    <value>178, 45</value>
+  </data>
   <data name="btnProductList.Text" xml:space="preserve">
     <value>قائمة المنتجات</value>
   </data>
+  <data name="panelSubProduct.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 260</value>
+  </data>
+  <data name="panelSubProduct.Size" type="System.Drawing.Size, System.Drawing">
+    <value>178, 135</value>
+  </data>
   <data name="btnProduct.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
+  </data>
+  <data name="btnProduct.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 215</value>
+  </data>
+  <data name="btnProduct.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 0, 0, 0</value>
+  </data>
+  <data name="btnProduct.Size" type="System.Drawing.Size, System.Drawing">
+    <value>178, 45</value>
   </data>
   <data name="btnProduct.Text" xml:space="preserve">
     <value>المنتجات</value>
   </data>
   <data name="btnDashboard.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
+  </data>
+  <data name="btnDashboard.Location" type="System.Drawing.Point, System.Drawing">
+    <value>0, 170</value>
+  </data>
+  <data name="btnDashboard.Padding" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>6, 0, 0, 0</value>
+  </data>
+  <data name="btnDashboard.Size" type="System.Drawing.Size, System.Drawing">
+    <value>178, 45</value>
   </data>
   <data name="btnDashboard.Text" xml:space="preserve">
     <value>لوحة التحكم</value>
@@ -215,10 +372,10 @@
     <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
   </data>
   <data name="lblUsername.Location" type="System.Drawing.Point, System.Drawing">
-    <value>22, 100</value>
+    <value>30, 111</value>
   </data>
   <data name="lblUsername.Size" type="System.Drawing.Size, System.Drawing">
-    <value>91, 18</value>
+    <value>106, 22</value>
   </data>
   <data name="lblUsername.Text" xml:space="preserve">
     <value>أسم المستخدم </value>
@@ -227,10 +384,10 @@
     <value>Microsoft Sans Serif, 10.8pt, style=Bold</value>
   </data>
   <data name="lblRole.Location" type="System.Drawing.Point, System.Drawing">
-    <value>51, 133</value>
+    <value>70, 147</value>
   </data>
   <data name="lblRole.Size" type="System.Drawing.Size, System.Drawing">
-    <value>62, 18</value>
+    <value>74, 22</value>
   </data>
   <data name="lblRole.Text" xml:space="preserve">
     <value>المسؤول </value>
@@ -271,19 +428,27 @@
         0qVLly5damfYsP8BjD71KAfn9x8AAAAASUVORK5CYII=
 </value>
   </data>
+  <data name="pictureBox1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>48, 12</value>
+  </data>
+  <data name="panelLogo.Size" type="System.Drawing.Size, System.Drawing">
+    <value>178, 170</value>
+  </data>
+  <data name="panelSlide.Size" type="System.Drawing.Size, System.Drawing">
+    <value>199, 653</value>
+  </data>
   <data name="lblName.Font" type="System.Drawing.Font, System.Drawing">
     <value>Century Gothic, 8pt</value>
   </data>
   <data name="lblName.Location" type="System.Drawing.Point, System.Drawing">
-    <value>11, 13</value>
+    <value>15, 14</value>
   </data>
   <data name="lblName.Size" type="System.Drawing.Size, System.Drawing">
-    <value>31, 16</value>
+    <value>39, 19</value>
   </data>
   <data name="lblName.Text" xml:space="preserve">
     <value>ENG</value>
   </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="panelLanguage.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Left</value>
   </data>
@@ -291,7 +456,31 @@
     <value>0, 0</value>
   </data>
   <data name="panelLanguage.Size" type="System.Drawing.Size, System.Drawing">
-    <value>58, 36</value>
+    <value>80, 40</value>
+  </data>
+  <data name="lblTitle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>983, 40</value>
+  </data>
+  <data name="panelTitle.Location" type="System.Drawing.Point, System.Drawing">
+    <value>199, 0</value>
+  </data>
+  <data name="panelTitle.Size" type="System.Drawing.Size, System.Drawing">
+    <value>983, 40</value>
+  </data>
+  <data name="panelMain.Location" type="System.Drawing.Point, System.Drawing">
+    <value>199, 40</value>
+  </data>
+  <data name="panelMain.Size" type="System.Drawing.Size, System.Drawing">
+    <value>983, 613</value>
+  </data>
+  <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
+    <value>11, 21</value>
+  </data>
+  <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
+    <value>1182, 653</value>
+  </data>
+  <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 4, 4, 4</value>
   </data>
   <data name="$this.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
     <value>Yes</value>

@@ -57,3 +57,7 @@ E:\New folder\Supermarket\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales
 E:\New folder\Supermarket\Point Of Sales\Point Of Sales\obj\Debug\ar\Point Of Sales.resources.dll
 E:\New folder\Supermarket\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.exe
 E:\New folder\Supermarket\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.pdb
+E:\New folder\Supermarket\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.Brand.resources
+E:\New folder\Supermarket\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.BrandModule.resources
+E:\New folder\Supermarket\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.Category.resources
+E:\New folder\Supermarket\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.CategoryModule.resources

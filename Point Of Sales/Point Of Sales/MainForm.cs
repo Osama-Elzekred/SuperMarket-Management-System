@@ -49,6 +49,23 @@ namespace Point_Of_Sales
                 submenu.Visible = false;
         }
         #endregion panelSlide
+
+        private Form activeForm = null;
+        private void openChildForm(Form childform)
+        {
+            if(activeForm != null)
+                activeForm.Close();
+            activeForm = childform;
+            childform.TopLevel = false;
+            childform.FormBorderStyle = FormBorderStyle.None;
+            childform.Dock= DockStyle.Fill;
+            lblTitle.Text = childform.Text;
+            panelMain.Controls.Add(childform);
+            panelMain.Tag = childform;
+            childform.BringToFront();
+            childform.Show();
+            
+        }
         private void panelLogo_Paint(object sender, PaintEventArgs e)
         {
 
@@ -76,11 +93,13 @@ namespace Point_Of_Sales
 
         private void btnCategory_Click(object sender, EventArgs e)
         {
+            openChildForm(new Category());
             hideSubmenu();
         }
 
         private void btnBrand_Click(object sender, EventArgs e)
         {
+            openChildForm(new Brand());
             hideSubmenu();
         }
 

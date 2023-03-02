@@ -16,5 +16,25 @@ namespace Point_Of_Sales
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+        public void LoadBrand()
+        {
+            dgvBrand.Rows.Clear();
+        }
+
+        private void btnAdd_Click(object sender, EventArgs e)
+        {
+            BrandModule moduleform = new BrandModule();
+            moduleform.ShowDialog();
+        }
+
+        private void dgvBrand_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
     }
 }
