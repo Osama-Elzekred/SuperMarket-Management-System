@@ -124,10 +124,13 @@
   <data name="smart_30px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Image\smart_30px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="category_30px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Image\category_30px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="close_window_30px" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Image\close_window_30px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="category_30px" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Image\category_30px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="search_20px" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Image\search_20px.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

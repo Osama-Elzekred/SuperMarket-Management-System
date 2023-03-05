@@ -93,6 +93,16 @@ namespace Point_Of_Sales.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap search_20px {
+            get {
+                object obj = ResourceManager.GetObject("search_20px", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap smart_30px {
             get {
                 object obj = ResourceManager.GetObject("smart_30px", resourceCulture);

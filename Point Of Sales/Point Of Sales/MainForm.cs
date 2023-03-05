@@ -88,6 +88,7 @@ namespace Point_Of_Sales
 
         private void btnProductList_Click(object sender, EventArgs e)
         {
+            openChildForm(new Product());
             hideSubmenu();
         }
 
