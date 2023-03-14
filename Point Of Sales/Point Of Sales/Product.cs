@@ -27,5 +27,15 @@ namespace Point_Of_Sales
         {
 
         }
+
+        private void Product_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }
