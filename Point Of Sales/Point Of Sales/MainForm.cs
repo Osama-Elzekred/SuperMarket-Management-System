@@ -121,6 +121,7 @@ namespace Point_Of_Sales
 
         private void btnSupplier_Click(object sender, EventArgs e)
         {
+            openChildForm(new Supplier());
             hideSubmenu();
         }
 
