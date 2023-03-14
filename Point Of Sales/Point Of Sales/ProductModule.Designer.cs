@@ -83,9 +83,9 @@
             this.label1.ForeColor = System.Drawing.Color.White;
             this.label1.Location = new System.Drawing.Point(12, 12);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(165, 22);
+            this.label1.Size = new System.Drawing.Size(155, 22);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Category Module";
+            this.label1.Text = "Product Module ";
             // 
             // btnCancel
             // 
@@ -285,7 +285,7 @@
             this.Controls.Add(this.txtPcode);
             this.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "ProductModule";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "ProductModule";

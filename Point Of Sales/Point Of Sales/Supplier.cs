@@ -19,6 +19,11 @@ namespace Point_Of_Sales
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
+            
+        }
+
+        private void btnAdd_Click_1(object sender, EventArgs e)
+        {
             SupplierModule sup = new SupplierModule(this);
             sup.ShowDialog();
         }
