@@ -126,7 +126,7 @@
   </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>106, 18</value>
+    <value>121, 22</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
     <value>اضافة منتج جديد</value>
@@ -147,7 +147,7 @@
     <value>NoControl</value>
   </data>
   <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>67, 20</value>
+    <value>71, 21</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
     <value>كود المنتج :</value>
@@ -162,7 +162,7 @@
     <value>NoControl</value>
   </data>
   <data name="label3.Size" type="System.Drawing.Size, System.Drawing">
-    <value>49, 20</value>
+    <value>54, 21</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
     <value>باركود :</value>
@@ -171,7 +171,7 @@
     <value>NoControl</value>
   </data>
   <data name="label4.Size" type="System.Drawing.Size, System.Drawing">
-    <value>55, 20</value>
+    <value>52, 21</value>
   </data>
   <data name="label4.Text" xml:space="preserve">
     <value>الوصف :</value>
@@ -180,7 +180,7 @@
     <value>NoControl</value>
   </data>
   <data name="label5.Size" type="System.Drawing.Size, System.Drawing">
-    <value>95, 20</value>
+    <value>92, 21</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
     <value>العلامة التجارية :</value>
@@ -189,7 +189,7 @@
     <value>NoControl</value>
   </data>
   <data name="label6.Size" type="System.Drawing.Size, System.Drawing">
-    <value>53, 20</value>
+    <value>50, 21</value>
   </data>
   <data name="label6.Text" xml:space="preserve">
     <value>الصنف :</value>
@@ -198,12 +198,19 @@
     <value>NoControl</value>
   </data>
   <data name="label7.Size" type="System.Drawing.Size, System.Drawing">
-    <value>50, 20</value>
+    <value>52, 21</value>
   </data>
   <data name="label7.Text" xml:space="preserve">
     <value>السعر : </value>
   </data>
   <data name="label8.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
+  </data>
+  <data name="$this.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>Yes</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.RightToLeftLayout" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
 </root>

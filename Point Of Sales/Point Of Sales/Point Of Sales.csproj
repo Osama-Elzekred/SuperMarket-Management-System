@@ -111,14 +111,26 @@
     <Compile Include="SupplierModule.Designer.cs">
       <DependentUpon>SupplierModule.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Brand.ar.resx">
+      <DependentUpon>Brand.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Brand.resx">
       <DependentUpon>Brand.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BrandModule.ar.resx">
+      <DependentUpon>BrandModule.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="BrandModule.resx">
       <DependentUpon>BrandModule.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Category.ar.resx">
+      <DependentUpon>Category.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Category.resx">
       <DependentUpon>Category.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CategoryModule.ar.resx">
+      <DependentUpon>CategoryModule.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="CategoryModule.resx">
       <DependentUpon>CategoryModule.cs</DependentUpon>
@@ -129,8 +141,14 @@
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Product.ar.resx">
+      <DependentUpon>Product.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Product.resx">
       <DependentUpon>Product.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductModule.ar.resx">
+      <DependentUpon>ProductModule.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ProductModule.resx">
       <DependentUpon>ProductModule.cs</DependentUpon>
@@ -145,8 +163,14 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="Supplier.ar.resx">
+      <DependentUpon>Supplier.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Supplier.resx">
       <DependentUpon>Supplier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SupplierModule.ar.resx">
+      <DependentUpon>SupplierModule.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="SupplierModule.resx">
       <DependentUpon>SupplierModule.cs</DependentUpon>

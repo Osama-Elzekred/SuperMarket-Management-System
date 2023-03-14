@@ -124,6 +124,10 @@
   <data name="label1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>207, 115</value>
+  </data>
   <data name="label1.Text" xml:space="preserve">
     <value>ادارة الأصناف</value>
   </data>
@@ -132,15 +136,17 @@
   </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="Column1.Width" type="System.Int32, mscorlib">
-    <value>55</value>
+    <value>59</value>
   </data>
   <data name="Column2.HeaderText" xml:space="preserve">
     <value>الرقم التعريفي</value>
   </data>
+  <data name="Column2.Width" type="System.Int32, mscorlib">
+    <value>106</value>
+  </data>
   <data name="Column3.HeaderText" xml:space="preserve">
     <value>الصنف</value>
   </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="Edit.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABGdBTUEAALGPC/xhBQAAAS1JREFUOE/d
@@ -178,9 +184,6 @@
         jVcAAAAASUVORK5CYII=
 </value>
   </data>
-  <data name="dataGridViewImageColumn1.Width" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
   <data name="dataGridViewImageColumn2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABGdBTUEAALGPC/xhBQAAAj5JREFUOE+9
@@ -195,12 +198,6 @@
         5H6PtY1u7PbI/UFjixH8OUALa7HGRuDoDQ2Pej2j10mM+rX46GFMz+hp6OXQHkEEF/2JqaHwH+rjbywH
         jb5+69ggLYj1Vd7/+tLA5XnCoOyfLNj9gZBfY4YxKirlJ3YAAAAASUVORK5CYII=
 </value>
-  </data>
-  <data name="dataGridViewImageColumn2.Width" type="System.Int32, mscorlib">
-    <value>6</value>
-  </data>
-  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>الأصناف</value>

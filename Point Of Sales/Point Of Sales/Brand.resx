@@ -143,10 +143,13 @@
   <data name="label1.ImageAlign" type="System.Drawing.ContentAlignment, System.Drawing">
     <value>MiddleLeft</value>
   </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="panel1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 3, 4, 3</value>
+  </data>
   <data name="dataGridViewImageColumn2.HeaderText" xml:space="preserve">
     <value />
   </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="label1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Left</value>
   </data>
@@ -154,7 +157,7 @@
     <value>CenterScreen</value>
   </data>
   <data name="dgvBrand.Size" type="System.Drawing.Size, System.Drawing">
-    <value>965, 566</value>
+    <value>1327, 626</value>
   </data>
   <data name="&gt;&gt;btnAdd.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
@@ -182,9 +185,6 @@
   <data name="&gt;&gt;Edit.Type" xml:space="preserve">
     <value>System.Windows.Forms.DataGridViewImageColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="label1.TabIndex" type="System.Int32, mscorlib">
-    <value>0</value>
-  </data>
   <data name="dgvBrand.Location" type="System.Drawing.Point, System.Drawing">
     <value>0, 0</value>
   </data>
@@ -192,10 +192,10 @@
     <value>6</value>
   </data>
   <data name="panel1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>0, 462</value>
+    <value>0, 511</value>
   </data>
   <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
-    <value>4, 4, 4, 4</value>
+    <value>6, 4, 6, 4</value>
   </data>
   <data name="label1.Font" type="System.Drawing.Font, System.Drawing">
     <value>Century Gothic, 12pt, style=Bold, Underline</value>
@@ -207,7 +207,7 @@
     <value>Column2</value>
   </data>
   <data name="dataGridViewImageColumn2.Width" type="System.Int32, mscorlib">
-    <value>6</value>
+    <value>125</value>
   </data>
   <data name="&gt;&gt;Column1.Name" xml:space="preserve">
     <value>Column1</value>
@@ -222,25 +222,28 @@
     <value>$this</value>
   </data>
   <data name="dataGridViewImageColumn1.Width" type="System.Int32, mscorlib">
-    <value>6</value>
+    <value>125</value>
   </data>
   <data name="Column1.Width" type="System.Int32, mscorlib">
-    <value>53</value>
+    <value>62</value>
   </data>
   <data name="btnAdd.Size" type="System.Drawing.Size, System.Drawing">
-    <value>51, 104</value>
+    <value>70, 115</value>
   </data>
   <data name="Column3.HeaderText" xml:space="preserve">
     <value>Brand</value>
   </data>
   <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>184, 104</value>
+    <value>220, 115</value>
   </data>
   <data name="&gt;&gt;label1.Name" xml:space="preserve">
     <value>label1</value>
   </data>
-  <data name="btnAdd.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
-    <value>Flat</value>
+  <data name="Column2.HeaderText" xml:space="preserve">
+    <value>id</value>
+  </data>
+  <data name="label1.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 0, 4, 0</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>Brand</value>
@@ -273,7 +276,7 @@
     <value>Century Gothic, 10.8pt</value>
   </data>
   <data name="btnAdd.Location" type="System.Drawing.Point, System.Drawing">
-    <value>914, 0</value>
+    <value>1257, 0</value>
   </data>
   <data name="&gt;&gt;Column3.Name" xml:space="preserve">
     <value>Column3</value>
@@ -300,7 +303,7 @@
     <value>System.Windows.Forms.DataGridViewImageColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="Column2.Width" type="System.Int32, mscorlib">
-    <value>47</value>
+    <value>54</value>
   </data>
   <data name="&gt;&gt;dgvBrand.ZOrder" xml:space="preserve">
     <value>1</value>
@@ -314,8 +317,8 @@
   <data name="dgvBrand.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
   </data>
-  <data name="Column2.HeaderText" xml:space="preserve">
-    <value>id</value>
+  <data name="dgvBrand.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 3, 4, 3</value>
   </data>
   <data name="&gt;&gt;panel1.Name" xml:space="preserve">
     <value>panel1</value>
@@ -326,8 +329,11 @@
   <data name="panel1.Dock" type="System.Windows.Forms.DockStyle, System.Windows.Forms">
     <value>Bottom</value>
   </data>
+  <data name="btnAdd.FlatStyle" type="System.Windows.Forms.FlatStyle, System.Windows.Forms">
+    <value>Flat</value>
+  </data>
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
-    <value>8, 19</value>
+    <value>11, 21</value>
   </data>
   <data name="&gt;&gt;label1.ZOrder" xml:space="preserve">
     <value>1</value>
@@ -347,8 +353,8 @@
   <data name="&gt;&gt;Delete.Type" xml:space="preserve">
     <value>System.Windows.Forms.DataGridViewImageColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="dataGridViewImageColumn2.MinimumWidth" type="System.Int32, mscorlib">
-    <value>6</value>
+  <data name="label1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
   </data>
   <data name="dataGridViewImageColumn1.HeaderText" xml:space="preserve">
     <value />
@@ -369,7 +375,7 @@
     <value>System.Windows.Forms.DataGridViewTextBoxColumn, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>965, 566</value>
+    <value>1327, 626</value>
   </data>
   <data name="dataGridViewImageColumn1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -412,8 +418,14 @@
   <data name="dgvBrand.RowHeadersWidth" type="System.Int32, mscorlib">
     <value>51</value>
   </data>
+  <data name="btnAdd.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
+    <value>4, 3, 4, 3</value>
+  </data>
+  <data name="dataGridViewImageColumn2.MinimumWidth" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
   <data name="panel1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>965, 104</value>
+    <value>1327, 115</value>
   </data>
   <data name="&gt;&gt;dataGridViewImageColumn2.Name" xml:space="preserve">
     <value>dataGridViewImageColumn2</value>

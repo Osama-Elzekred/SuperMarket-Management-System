@@ -117,23 +117,71 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btnAdd.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="label1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAABGdBTUEAALGPC/xhBQAAAgBJREFUSEvt
+        lr9LVlEcxtVwC6lAylUM/4GGEimQBid1aHEx3iWjlmh5QXAJIsiGwEGipVkdxEEJN0EHKwhdSineGhIh
+        yoZ+Et0+jzyI+t7re17OcfOBz/A853u/X+7h3ntuw7FqKcuyRrgIIzAOw146OjGkB1bhDyzCDPyFEpxy
+        WVrReAh+wz047Vj5U9iCb3DNcRrRsBM0dNDRPpFr+2/AT+hwHC+a6a5mbQtFzXMYt40Xzd5D7t3uFTXX
+        4Y1tvGj2C7psC0XNZfhuGy+afYI+20KpRrW28aLZFEzYFko1MGMbL5pVoGxbKGoewJptvGj2BXptC0XN
+        Vdi2jRfNnsFrOOeoSqy1wQuYdhQvmrWAtrvkqEqs3YYNOOMojWg4BitwwtGuyJrgFYw6SieatsJHuONI
+        WTe8Bb1uOiy0K+8CWHCLMHHBE2ErPwwf4CbcBX2va3EfMrcIE/V5g1/ayjfDLSgf4IpLVHMBwgdTqxNo
+        Hh47yht8FpaVHWDMJfUNdrFOnm3odFw1OETUHz6YNW2bThs9yf9gDtq9vCN82sHk/aAn9DM8hPNe2ify
+        dIPJ9BOnY3AUTjrOFetpBuN74QdccnSoqEs2WA/QI9uaojbZ4K+wBJOB6FWp+PIgUZ87WL+uOx+JQPRv
+        HT+4XnG9tnoddA6Hoi9b9OAB0Dtep7LN/+crb9DcXi6SAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="label1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>إدارة الموردين</value>
+  </data>
   <data name="Column1.HeaderText" xml:space="preserve">
-    <value>العدد</value>
+    <value>رقم</value>
   </data>
   <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="Column1.Width" type="System.Int32, mscorlib">
-    <value>59</value>
+    <value>54</value>
   </data>
   <data name="Column2.HeaderText" xml:space="preserve">
-    <value>الرقم التعريفي</value>
+    <value>مورد</value>
   </data>
   <data name="Column2.Width" type="System.Int32, mscorlib">
-    <value>106</value>
+    <value>60</value>
   </data>
   <data name="Column3.HeaderText" xml:space="preserve">
-    <value>العلامة التجارية</value>
+    <value>العنوان</value>
   </data>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="Column4.HeaderText" xml:space="preserve">
+    <value>اسم الموزع</value>
+  </data>
+  <data name="Column4.Width" type="System.Int32, mscorlib">
+    <value>89</value>
+  </data>
+  <data name="Column5.HeaderText" xml:space="preserve">
+    <value>رقم الهاتف</value>
+  </data>
+  <data name="Column5.Width" type="System.Int32, mscorlib">
+    <value>88</value>
+  </data>
+  <data name="Column6.HeaderText" xml:space="preserve">
+    <value>البريد</value>
+  </data>
+  <data name="Column6.Width" type="System.Int32, mscorlib">
+    <value>62</value>
+  </data>
+  <data name="Column7.HeaderText" xml:space="preserve">
+    <value>الفاكس</value>
+  </data>
+  <data name="Column7.Width" type="System.Int32, mscorlib">
+    <value>75</value>
+  </data>
   <data name="Edit.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABGdBTUEAALGPC/xhBQAAAS1JREFUOE/d
@@ -160,19 +208,6 @@
         jb5+69ggLYj1Vd7/+tLA5XnCoOyfLNj9gZBfY4YxKirlJ3YAAAAASUVORK5CYII=
 </value>
   </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="btnAdd.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="label1.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
-    <value>NoControl</value>
-  </data>
-  <data name="label1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>264, 115</value>
-  </data>
-  <data name="label1.Text" xml:space="preserve">
-    <value>ادارة العلامات التجارية</value>
-  </data>
   <data name="dataGridViewImageColumn1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAABGdBTUEAALGPC/xhBQAAAS1JREFUOE/d
@@ -183,6 +218,9 @@
         ypIPzvk6jw7kFuc+myGwCzWbYVnWMWNM8OhQsMtqMD6B/BegY5omQQi10zStiXGBc/ojALwBZd75CfL2
         jVcAAAAASUVORK5CYII=
 </value>
+  </data>
+  <data name="dataGridViewImageColumn1.Width" type="System.Int32, mscorlib">
+    <value>6</value>
   </data>
   <data name="dataGridViewImageColumn2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
@@ -199,7 +237,16 @@
         jb5+69ggLYj1Vd7/+tLA5XnCoOyfLNj9gZBfY4YxKirlJ3YAAAAASUVORK5CYII=
 </value>
   </data>
-  <data name="$this.Text" xml:space="preserve">
-    <value>العلامات التجارية</value>
+  <data name="dataGridViewImageColumn2.Width" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="$this.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="$this.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
+    <value>Yes</value>
+  </data>
+  <data name="$this.RightToLeftLayout" type="System.Boolean, mscorlib">
+    <value>True</value>
   </data>
 </root>

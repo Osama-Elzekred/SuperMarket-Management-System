@@ -27,5 +27,10 @@ namespace Point_Of_Sales
             SupplierModule sup = new SupplierModule(this);
             sup.ShowDialog();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
