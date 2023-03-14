@@ -85,3 +85,33 @@ F:\SuperMarket-Management-System\Point Of Sales\Point Of Sales\bin\Debug\MetroFr
 F:\SuperMarket-Management-System\Point Of Sales\Point Of Sales\bin\Debug\MetroFramework.Fonts.dll
 F:\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.csproj.CopyComplete
 F:\SuperMarket-Management-System\Point Of Sales\Point Of Sales\bin\Debug\MetroFramework.Design.dll
+F:\temp\SuperMarket-Management-System\Point Of Sales\Point Of Sales\bin\Debug\Point Of Sales.exe.config
+F:\temp\SuperMarket-Management-System\Point Of Sales\Point Of Sales\bin\Debug\Point Of Sales.exe
+F:\temp\SuperMarket-Management-System\Point Of Sales\Point Of Sales\bin\Debug\Point Of Sales.pdb
+F:\temp\SuperMarket-Management-System\Point Of Sales\Point Of Sales\bin\Debug\ar\Point Of Sales.resources.dll
+F:\temp\SuperMarket-Management-System\Point Of Sales\Point Of Sales\bin\Debug\MetroFramework.Design.dll
+F:\temp\SuperMarket-Management-System\Point Of Sales\Point Of Sales\bin\Debug\MetroFramework.dll
+F:\temp\SuperMarket-Management-System\Point Of Sales\Point Of Sales\bin\Debug\MetroFramework.Fonts.dll
+F:\temp\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.csproj.AssemblyReference.cache
+F:\temp\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.csproj.SuggestedBindingRedirects.cache
+F:\temp\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.Brand.resources
+F:\temp\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.BrandModule.resources
+F:\temp\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.Category.resources
+F:\temp\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.CategoryModule.resources
+F:\temp\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.MainForm.resources
+F:\temp\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.ProductModule.resources
+F:\temp\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.Properties.Resources.resources
+F:\temp\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.MainForm.ar.resources
+F:\temp\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.csproj.GenerateResource.cache
+F:\temp\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.csproj.CoreCompileInputs.cache
+F:\temp\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\ar\Point Of Sales.resources.dll
+F:\temp\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.csproj.CopyComplete
+F:\temp\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.exe
+F:\temp\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point Of Sales.pdb
+F:\temp\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.CategoryModule.ar.resources
+F:\temp\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.Brand.ar.resources
+F:\temp\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.BrandModule.ar.resources
+F:\temp\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.Category.ar.resources
+F:\temp\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.ProductModule.ar.resources
+F:\temp\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.المنتجات.resources
+F:\temp\SuperMarket-Management-System\Point Of Sales\Point Of Sales\obj\Debug\Point_Of_Sales.المنتجات.ar.resources

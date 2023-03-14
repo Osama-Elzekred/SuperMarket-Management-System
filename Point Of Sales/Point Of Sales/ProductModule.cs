@@ -16,8 +16,8 @@ namespace Point_Of_Sales
         /* SqlConnection cn = new SqlConnection();
          SqlCommand cm = new SqlCommand();  
          DBConnect dbcon =new DBConnect();*/
-        Product product;
-        public ProductModule(Product pd)
+        المنتجات product;
+        public ProductModule(المنتجات pd)
         {
             InitializeComponent();
             //cn = new SqlConnection(dbcon.myConnection());
